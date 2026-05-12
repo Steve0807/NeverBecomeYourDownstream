@@ -1,0 +1,1375 @@
+7  The Defence Science and Technology Laboratory
+24  National Aeronautics and Space Administration
+37  US DoD Naval Surface Warfare Center
+49  National Institute of Standards and Technology
+50  Oak Ridge National Laboratory
+70  National Library of Medicine
+89  DoD Naval Undersea Warfare
+102  U.S. National Science Foundation
+127  Jet Propulsion Laboratory
+138  United States Department of Defense (DoD)
+147  United States Department of Defense (DoD)
+224  Sikt (Uninett)
+228  United States Department of Defense (DoD)
+243  L3Harris Technologies, Inc.
+273  United States Department of Defense (DoD)
+288  European Space Agency (ESA)
+293  ESnet
+297  National Aeronautics and Space Administration
+300  United States Department of Defense (DoD)
+306  United States Department of Defense (DoD)
+312  United States Department of Defense (DoD)
+316  United States Department of Defense (DoD)
+319  United States Department of Defense (DoD)
+321  United States Department of Defense (DoD)
+341  United States Department of Defense (DoD)
+345  United States Department of Defense (DoD)
+351  United States Department of Defense (DoD)
+352  United States Department of Defense (DoD)
+356  United States Department of Defense (DoD)
+367  United States Department of Defense (DoD)
+400  Air Force Systems Networking
+518  United States Department of Defense (DoD)
+542  Alberta Research Council
+559  SWITCH
+567  Los Nettos
+571  United States Department of Defense (DoD)
+600  OARnet
+637  United States Department of Defense (DoD)
+668  DoD High Performance Computing (Defense Research and Engineering Network)
+683  Argonne National Laboratory
+688  U.S. Department of Interior Bureau of Reclamation
+745  Air Force Systems Networking
+749  United States Department of Defense (DoD)
+764  Prime Ministers Office
+766  Entidad Publica Empresarial Red.es
+786  Jisc Services Limited
+818  Department of Communications
+905  Waterloo regional police service
+1226  California Department of Technology
+1348  California Department of Transportation
+1554  United States Department of Defense (DoD)
+1556  United States Department of Defense (DoD)
+1565  United States Department of Defense (DoD)
+1569  United States Department of Defense (DoD)
+1586  United States Department of Defense (DoD)
+1733  United States Department of Defense (DoD)
+1798  State of Oregon
+1827  Manatee County Government
+1837  The North Atlantic Treaty Organization
+1955  KIFU (Governmental Info Tech Development Agency)
+1998  State of Minnesota
+2026  City of Helsinki
+2384  Architect of the Capitol
+2544  King County Gov
+2576  U. S. Department of Transportation
+2611  BELNET
+2614  Agentia de Administrare a Retelei Nationale de Inform...
+2633  National Academy of Sciences
+2650  Executive Office Of The President
+2665  Shared Services Canada
+2675  Shared Services Canada
+2727  Electric Plant Board of the City of Glasgow, Kentucky
+2769  State of Nebraska / Office of the CIO
+2894  California Department of Water Resources
+2920  Los Angeles County Office of Education
+3136  State of WI Dept. of Administration
+3219  Ministry of Local Government and Regional Development
+3233  Institutul National de Cercetare-Dezvoltare in inform...
+3240  Styrelsen for It og Læring
+3401  City of Seattle, Dept. of Admin. Services
+3471  United States Department of Defense (DoD)
+3477  National Oceanic and Atmospheric Administration
+3527  National Institutes of Health
+3562  Sandia National Laboratories
+3635  U.S. Department of Commerce, Bureau of Economic Analysis
+3705  U.S. Government Publishing Office
+3709  City of San Antonio
+3766  Shared Services Canada
+3926  Fairfax County Dept of Information Technology
+4152  U.S. Department of Agriculture
+4179  City of Los Angeles
+4193  State of Washington
+4211  Maricopa County Government
+4454  State of Tennessee
+4651  The Communications Authority of Thailand (CAT)
+4758  National Informatics Centre
+4782  Government Service Network
+4820  Department of Communities and Justice
+4859  The State Information Center of P.R.China
+4894  City of Anaheim
+4954  Carroll County Government
+5108  City of Pasadena
+5110  City of Vancouver
+5132  United States Department of Defense (DoD)
+5306  United States Department of Defense (DoD)
+5498  Institution Central Information and Analytical Center...
+5507  Magyarorszagi Internet Szolgaltatok Tanacsa Tudomanyo...
+5542  Ministry of Health, Treatment and Medical Education
+5744  United States Patent and Trademark Office
+5774  United States Postal Service
+5831  United States Department of Defense (DoD)
+5860  United States Department of Defense (DoD)
+5972  United States Department of Defense (DoD)
+6040  United States Department of Defense (DoD)
+6122  Iowa Communications Network
+6150  National Cancer Institute
+6559  State of NC - State Telecommunications Services
+6699  Federal State Budgetary Institution of Science N.N. ...
+6733  Bundesinstitut fuer Arzneimittel und Medizinprodukte ...
+6769  Kertinis valstybes telekomunikaciju centras
+6849  JSC Ukrtelecom
+6922  Texas Department of Information Resources
+6966  U.S. Department of State
+6989  Government Technology Services Inc.
+7086  Mississippi, Department of Information Technology Ser...
+7194  City of Burbank
+7417  Ministry of Economy
+7465  PROCERGS - Cia de Processamento de Dados do RGS
+7471  City of Darebin
+7497  Computer Network Information Center of Chinese Academ...
+7564  Korea Atomic Energy Research Institute
+7773  South Dakota State Government
+7872  United States Antarctic Program
+8103  Florida Department of Management Services
+8140  Instituto Federal Electoral
+8194  Latvia State Radio and Television Centre
+8240  Information System Authority Republic of Estonia
+8414  International Telecommunication Union
+8506  Institution of Russian Science Academy of Irkutsk Sci...
+8517  National Academic Network and Information Center
+8519  European Space Agency (ESA)
+8659  United Nations International Computing Centre
+8834  Gmina Miasto Rzeszow
+8867  Government ICT Authority - Israel
+8956  Stadt Flensburg
+8978  Holy See - Vatican City State
+9201  Swedish Armed Forces
+9270  National Infomation Society Agency
+9275  Korea Astronomy Observatory
+9389  China Greatwall Internet (Beijing Shenzhou Greatwall)
+9489  Korea Aerospace Research Institute
+9509  Department of Employment and Workplace Relations
+9546  Ministry of University Affairs
+9647  Seoul Metropolitan Government
+9650  QLD Government Business (IT)
+9732  Digital Policy Office, HKSARG
+9811  Development Research Centre of State Council (PRC)
+9821  Department of Science and Technology
+9829  BSNL (Bharat Sanchar Nigam Ltd)
+9835  Government Information Technology Services
+10063  Korea Meteorological Administration
+10187  Korea Information Society Developement Institute
+10412  CIA. DE TECNOL. DA INFOR. E COMUNICAÇÃO DO PARANÁ
+10442  U.S. Department of Education
+10616  National Oceanic and Atmospheric Administration
+10670  COMPANHIA DE TECNOLOGIA DA INFORMAÇÃO ESTADO MG
+10897  Camara dos Deputados
+10921  Commonwealth of KentuckyDepartment of Information Systems
+10938  AGENCIA ESTADUAL DE TECNOLOGIA DA INFORMACAO - ATI
+10944  Association of Bay Area Governments
+10954  SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO
+11097  EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA
+11205  City of Philadelphia
+11361  Boscovs Department Store, LLC
+11394  City of Richardson
+11577  Vermont Agency of Digital Services
+11663  State of Utah
+11687  City of Hope Medical Center
+11708  City of North Kansas City, MO
+11802  Centro de Informatica e Automacao do Estado de SC
+11956  National Oceanic and Atmospheric Administration
+11974  US Department of State
+12051  City of Escondido
+12102  City of Portland
+12156  City of Aurora Colorado
+12191  City of Lebanon - Lebanon Utilities
+12253  Leon County Board of County Commisioners
+12303  Magyarorszagi Internet Szolgaltatok Tanacsa Tudomanyo...
+12376  Ministry of finance
+12443  Riga City Council Finance Department
+12509  Bank of Latvia
+12511  Die Schweizerische Post AG
+12564  Council of Ministers
+12782  Uppsala Läns Landsting
+13011  RA Monitorul Oficial
+13029  Autonomous institution Center of Information Technolo...
+13223  Council Of Europe
+13325  Michigan State Government
+13456  City of Spokane
+13470  NAVAJO COUNTY
+13506  United States Department of the Treasury
+13543  City of Cookeville
+13611  U.S. Center For Disease Control and Prevention
+13685  Rochester City School District
+13781  Hopkinsville Electric System
+13788  US Courts
+13855  The Municipal Communications Utility of the City of C...
+13918  City of Tucson
+13972  Wadsworth Center, NYS Department of Health
+14072  Government of the District of Columbia
+14223  New York State Department of Health
+14242  City of Chandler
+14263  South Dakota State Government
+14303  City of Memphis
+14308  City of Longmont
+14488  City of Williamstown
+14677  City of Tacoma
+14734  Northeast Ohio Network for Educational Technology
+14736  City of Kansas City Missouri
+14827  Washington State Department of Transportation
+14877  FirstLight Networks, LLC
+14977  State of Wyoming Department A&I
+14983  Law School Admission Council
+15029  U.S. Department of Health & Human Services
+15130  U. S. Department of Justice
+15147  DEPARTMENT OF HOMELAND SECURITY
+15196  Maryland Department of Transportation
+15205  Nassau County Police Department
+15304  Washoe County
+15383  Paradigm
+15386  IPbnb LLC
+15419  SC Lithuanian Radio and TV Center
+15770  Durham County Council
+15806  Irish Government
+16060  Kuwait Ministry of Finance
+16426  City of Columbus
+16502  City of Phoenix
+16569  City of Calgary
+16697  City of Columbia, MO
+16700  CNSNext
+16701  AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO (ARCA)
+16741  City Of Lakeland
+16796  MERLIN
+16986  City of Santa Monica
+17120  New Brunswick Department of Education and Early Child...
+17147  Ministerio del Interior y de Seguridad Publica - Gobi...
+17297  CITY OF CARROLLTON - TEXAS
+17365  City of Fresno
+17485  Trade and Industry Department, the Government of the ...
+17494  Bangladesh Telegraph & Telephone Board
+17574  Seoul Metropolitan Government Computer Center
+17595  Korea Institute of Nuclear Safety
+17793  Leisure and Cultural Services Department
+18043  Department of Education, Hsinchu City
+18055  Department of Human Services
+18125  Tsukuba Business-Academia Cooperation Support Center, AS18127,Ibaraki Prefectural Government AS18181,National Health Research Institutes AS18183,National Center for Research on Earthquake Engineering AS18220,Australian Defence Organisation AS18242,Chengdu Information Harbor Co., Ltd
+18255  Brisbane City Council
+18431  Department of Foreign Affairs and Trade
+18440  National Council on Compensation Insurance, Inc.
+18482  City of Raleigh
+18558  Riverside County Office of Education
+18614  Yakima County
+18760  City of Rancho Cucamonga
+18777  Texas State University
+18847  Randolph County Government of NC
+18889  City of Ruston
+18975  Stanislaus County Office of Education
+19014  NORCOM
+19050  U.S. Department of Health & Human Services
+19076  Weld County Government
+19179  City of El Paso
+19185  City of Mesa
+19307  Water Works & Sanitary Sewer Board of the City of Mon...
+19323  Holyoke Gas & Electric Department
+19329  Martin County Board of County Commissioners
+19348  City of Brentwood
+19399  Region stockholm
+19426  Harris County ESD 11 Mobile Healthcare
+19534  Lee County Tax Collector
+19589  City Of Leesburg
+19713  State of New Hampshire
+19722  Niagara Frontier Transportation Authority
+19723  CIA. DE TECNOL. DA INFOR. E COMUNICAÇÃO DO PARANÁ
+19725  City Of Houston - Public Works
+19779  St. George Fire Department
+19827  City of Carson City
+19902  Department of Administrative Services
+19904  City of Longview
+20009  The City of Wadsworth
+20047  City of Virginia Beach, Virginia
+20091  City of Martinsville, VA
+20097  City of Tulsa
+20116  CAIXA ECONOMICA FEDERAL
+20336  New York State Department of Transportation
+20372  Office of Management and Budget
+20548  Parliament of Latvia
+20661  State Company of Electro Communications Turkmentelecom
+20702  JSC Russian Railways
+20820  JUDETUL DAMBOVITA
+20905  Banco de Espana
+20929  Ministerul Finanțelor Publice
+20950  Regional Informational Computer Center, Rovnen region...
+21002  Ministry of Finance of Saudi Arabia
+21096  The State Cyber Protection Center of the State Servic...
+21325  Tiesu Namu Agentura SIA
+21449  Etat de Genève (Canton of Geneva)
+21489  The North Atlantic Treaty Organization
+21564  Nova Scotia Provincial Government
+21589  City of San Jose
+21633  U.S. Department of the Interior
+21669  New Jersey State Library
+21694  Fresno County Office of Education
+21696  City of Murphy
+21843  City of Buffalo
+21852  State Of Arkansas, Division of Information Systems
+22066  City of Eau Claire
+22073  City of Glendale
+22088  City of Edmonds
+22252  The City of New York
+22284  U.S. Department of the Interior
+22304  City of Marietta
+22422  Board of Elections in the City of New York
+22472  Florida Supreme Court
+22498  Pinellas County Government
+22515  DEPARTAMENTO DE POLICIA FEDERAL
+22617  Superior Court of California, County of Sacramento
+22757  City of Akron
+22828  United States Food and Drug Administration
+23024  Orange County Department of Education
+23025  City of St. Louis
+23038  City of Hillsboro
+23067  Orange County, Florida
+23074  PETROLEO BRASILEIRO S.A. - PETROBRAS
+23228  The County of El Paso
+23271  City of Watsonville
+23281  City of Sacramento
+23301  State of Wisconsin Investment Board
+23307  Nova Scotia Department of Education
+23363  City of Lewisville
+23457  City of Brampton
+23483  Shasta County Office of Education
+23544  City of Mission Viejo
+23596  Korea Internet Security Agency
+23744  Department of Home Affairs
+23799  National Defense Academy
+23889  Mauritius Telecom Ltd
+23917  Tuvalu Telecommunications Corporation
+24151  China Internet Network Infomation Center
+24313  NSW Department of Education
+24394  DEPARTMENT OF THE PREMIER AND CABINET
+24449  Electrical and Mechanical Services Department
+24595  Belastingdienst
+24675  Irish Government
+24845  Landeshauptstadt Muenchen, it@M
+25094  Centre des technologies de linformation de lEtat
+25241  Information Centre of the Ministry of the Interior
+25278  Autoritatea pentru Digitalizarea Romaniei
+25354  Entidad Publica Empresarial Red.es
+25373  National Agency for Network and Electronic Services
+25377  Ministerie van Buitenlandse Zaken
+25444  Latvian National Armed Forces
+25461  Serviciul de Informatii Externe
+25554  Ministry of Finance of Bulgarian Government
+25628  Collier County Clerk of the Circuit Court
+25640  Hawaii Department of Education
+25664  Solano County Office of Education
+25729  City of Irving
+25807  Arlington County Government
+25808  Town of Concord MA
+25832  Cia. de Processamento de Dados do Estado da Bahia
+25876  Los Angeles Department of Water & Power
+25925  City of Lethbridge
+25979  CITY OF MADISON
+25992  Las Vegas Metropolitan Police Department
+25996  FBI Criminal Justice Information Services
+26025  City of Calgary
+26059  City of Pittsburgh
+26064  City of Kings Mountain
+26100  National Oceanic and Atmospheric Administration
+26218  EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV
+26229  U.S. Securities & Exchange Commission
+26263  City of Las Vegas
+26402  City of Santa Barbara
+26439  City of Albuquerque
+26515  City of Fort Myers
+26565  City of Medford
+26765  Bountiful City
+26810  U.S. Dept. of Health and Human Services
+26814  City of Birmingham
+26903  City of Salisbury, North Carolina
+26923  Ohio Public Library Information Network (OPLIN)
+27033  United States Department of Defense (DoD)
+27064  Defense Information Systems Agency (DISA)
+27065  United States Department of Defense (DoD)
+27066  United States Department of Defense (DoD)
+27139  United States Department of Defense (DoD)
+27142  United States Department of Defense (DoD)
+27201  CITY OF LYNCHBURG
+27202  City of Bardstown, Kentucky
+27206  City of Sugar Land
+27273  District Council 37
+27370  City of Boston
+27412  American Council on Education
+27673  Instituto Nacional de Estadistica Geografia e Info
+28197  EMPRESA DE TECNOLOGIA DA INFORMACAO DO CEARA-ETICE
+28222  INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS
+28261  EMPRESA SERGIPANA DE TECNOLOGIA DA INFORMAÇÃO
+28291  MINISTERIO DA SAUDE
+28371  Gobierno del Estado de Guanajuato
+28513  UNINET
+28563  Instituto Nacional de Salud Pública
+28602  CENTRO DE PROC. DE DADOS DO ESTADO DE MATO GROSSO
+28616  Emp. de Informatica e Informaçao do Mun. BH/SA
+28629  SENADO FEDERAL
+28637  Cia Proc. de Dados do Estado de S Paulo - Prodesp
+28682  Posta Slovenije d.o.o.
+28727  Autoritatea Nationala pentru Administrare si Reglemen...
+28810  World Health Organization (WHO)
+29093  Fingrid Oyj
+29263  Gemeente Den Haag
+29325  JSC UKRAINIAN RAILWAYS
+29335  Office of the Verkhovna Rada of Ukraine
+29348  Menntamálastofnun (FS-net)
+29466  State Revenue Service of Republic of Latvia
+29585  Ministry of foreign affairs
+29600  Latvenergo
+29626  Staffordshire County Council
+29901  Mecklenburg County, NC
+29935  City of Tampa, Florida
+29992  U.S. Department of Veterans Affairs
+30049  Metropolitan Transit Authority of Harris County
+30185  City of Rochester
+30243  The School District of the City of Saginaw
+30268  CITY OF CHASKA CHASKANET
+30412  CITY OF CORONA
+30415  Sarasota County Government
+30445  City of Radford
+30450  City of Lathrop
+30577  City of Bellevue IT Dept
+30754  Eduskunta
+31004  Schweizerische Bundesbahnen SBB
+31065  Ministry of Communications and Information Technology
+31215  The Republic of Croatia, Ministry of Finance
+31236  Reykjavík City Hall
+31256  Warwickshire County Council
+31278  Administratia Nationala de Meteorologie RA
+31313  Serviciul de Telecomunicatii Speciale
+31324  Ministry of industry and trade of the Russian Federation
+31581  NISZ National Infocommunications Service Provider Pri...
+31753  Inmarsat Government
+31756  City of Colorado Springs
+31900  City of Thornton
+32146  City of Bozeman
+32193  City of Ammon, Idaho
+32269  City of Idaho Falls
+32294  City of Champaign, Illinois
+32324  CITY OF CERRITOS
+32365  City of Sandy
+32457  City of Houston
+32629  City of Charlotte
+32635  City of Clovis
+32711  Wake County Government
+32770  CITY OF PLEASANTON
+32815  Government of Yukon
+32843  CITY OF HAYWARD
+32982  U.S. Department of Energy
+33138  New York City Police Department
+33248  City of Evanston, Illinois
+33343  U.S. Department of Commerce, HQ and ITA
+33370  City of Riverside
+33515  City of Monroe
+33527  Metropolitan Government of Nashville and Davidson Cou...
+33594  Government of the Northwest Territories
+33638  CITY OF SCOTTSBURG
+33845  Swiss Federation represented by FOITT
+33967  Lancashire County Council
+34073  Ministry of Education and Science Republic of Latvia
+34123  Netorn LLC
+34478  TUBITAK Ulusal Elektronik ve Kriptoloji Arastirrma En...
+34592  Iranian Presidential Administration
+34663  Belastingdienst
+34670  Skatteforvaltningen
+34808  Societatea Romana de Radiodifuziune
+35175  Oulun kaupunki
+35264  Gobierno de Cantabria
+35302  AS Latvenergo
+35338  Ministry of Interior
+35373  Latvijas Pasts
+35503  Ministry of Education Youth and Science
+35542  SSC Space AB
+35704  ITZBund
+35709  Ministerie van Justitie en Veiligheid
+35789  Gribskov Kommune
+35956  Snohomish County Government
+35960  City of Beverly Hills
+36045  City of Kansas City Missouri
+36069  City of Chanute, Kansas
+36081  The Governors Office of Information Technology
+36223  Spanish Fork City
+36340  City of Toledo
+36358  City of Des Moines
+36479  Saskatchewan Government Insurance
+36542  Gwinnett County Government
+36548  City of Jacksonville, Florida
+36555  City Of Vernon
+36612  Clark County WA
+36739  Collier County Government
+36750  City of Mississauga
+36809  City of Coral Gables
+36885  Ministry of Communications and Information Technology
+37016  Ethekwini Municipality
+37051  Government of Botswana
+37066  Ministry of Foreign Affairs
+37130  SITA Pty LTD
+37219  Information and Communications Technology Authority
+37258  Defence Intelligence Agency
+37313  Ghana Government (Ministry of Communications)
+37385  Societe Nigerienne des Telecommunications (SONITEL)
+37434  ERR_AS_NAME_NOT_FOUND
+37466  ERR_AS_NAME_NOT_FOUND
+37654  Rwanda Ministry of Education
+37677  Societe Congolaise des Postes et Telecommunications (SCPT)
+37978  Networking Tasmania
+38027  Information Center, Ministry of Sci and Tech
+38157  Tentara Nasional Indonesia Angkatan Udara (TNI-AU)
+38236  Gosford City Council
+38293  Ministry of Foreign Affairs
+38296  National Science and Technology Development Agency
+38328  Ministry of Finance
+38414  Gyeonggi siheung office of education
+38450  Ministry of Infomation Communication Technology
+38470  Department of Home Affairs
+38526  Diskominfotik Yogyakarta
+38574  LCSD, HKSARG
+38603  LCSD, HKSARG
+38764  Markas Besar Kepolisian Negara Republik Indonesia
+38863  GOLD COAST CITY COUNCIL
+38886  The Government Lottery Office, Thailand
+38915  Solido Gemeenschappelijk Regeling
+39098  Bank Of Finland
+39154  Business-Finance LLC
+39279  Information Technology and Cyber Security Service
+39353  Gobierno del Principado de Asturias
+39658  Statistics Sweden
+39662  Finnish Transport and Communications Agency
+39675  Altum Development Finance Institution
+39804  Vlaamse Dienst voor Arbeidsbemiddelling en Beroepsopleiding
+39949  City Of Vancouver
+39961  San Francisco Department of Telecommunications and In...
+39990  Boulder County Government
+40042  Suffolk County Government
+40109  Forsyth County Board of Education
+40116  New York State Department of Financial Services
+40148  PRINCE GEORGES INTERGOVERNMENTAL NETWORK COMMUNITY CO...
+40158  Department of Homeland Security
+40249  The Government of Saint Kitts and Nevis
+40267  Passaic County Technical Institute
+40382  Hennepin County
+40411  City of Concord
+40468  Montgomery County Government, Maryland
+40553  Cuyahoga County Information Services center
+40623  Office of Oceanic and Atmospheric Research - Geophysi...
+40648  Lee County BoCC
+40651  Monster Government Solutions, LLC
+40749  CLARKSVILLE DEPARTMENT OF ELECTRICITY
+40839  KOHLS DEPARTMENT STORES
+41289  Deutscher Wetterdienst
+41306  Toender Kommune
+41312  CAPITAL CITY OF WARSAW
+41336  Financijska agencija
+41376  Jurmala City Council
+41394  Ministry of Health
+41424  Latvian Railways
+41502  Secretariat of the Cabinet of Ministers of Ukraine
+41530  Agentia Nationala de Cadastru si Publicitate Imobiliara
+41548  Medway Council
+41636  Ministry of Finance of the Russian Federation
+41716  Ministry of foreign affairs of Republic of Slovenia
+41739  Ministry of Education
+41888  State Institution Service Center for the Departments...
+42056  Ministry for Economic Development of the Russian Federation
+42142  Agentia Nationala pentru Protectia Mediului
+42165  European Commission - Directorate General - Joint Res...
+42211  Ministerio de Defensa
+42848  European Commission
+42894  Ministerie van Verkeer en Waterstaat/Rijkswaterstaat
+43011  GUIT Omskoy oblasti
+43028  Ventspils Digital Centre
+43104  SJSC RIGA International Airport
+43188  Agricultural Data Center Republic of Latvia
+43193  Bayerisches Landesamt fuer Steuern
+43344  State Enterprise Ukrvaktsina Ministry of Health of Ukraine
+43378  Ministry of Commerce and Industry in Saudi Arabia
+43381  Israel Ministry Of Defence
+43475  Science Technology Facilities Council
+43558  Traficom .FI Anycast
+43797  The Federal Guard Service of the Russian Federation
+43806  Region Sjælland
+43838  City of Bradford Metropolitan District
+43922  City of Malmö
+44110  Walsall Metropolitan Borough Council
+44328  Region Syddanmark
+44403  Bristol City Council
+44442  The Borough of Telford and Wrekin Council
+44560  FKU GTsSIZI Ministry of Internal Affairs of Russia
+44689  Ministry of Education
+44698  Chancery of the President of Latvia
+44998  GOBIERNO DE CANARIAS
+45316  Diskominfo Kota Bogor
+45353  NITC: IT Agency of Government of Nepal
+45442  Department of Parliamentary Services, AS45533,Comptroller Generals Department AS45588,Bangladesh Telecommunications Company Limited (BTCL),...
+45703  Badan Koordinasi Penanaman Modal (BKPM)
+45712  Departemen Luar Negeri Republik Indonesia
+45732  Pusat Sistem Informasi dan Teknologi Keuangan ( Pusintek )
+45793  Newcastle City Council
+45808  Bandar Seri Iskandar
+46017  Badan Koordinasi Survei dan Pemetaan Nasional (BAKOSU...
+46093  Palm Beach County
+46153  Louisville Jefferson County Metro Government
+46169  City of Georgetown
+46376  City of Orlando - Information Systems
+46439  CITY OF LEXINGTON
+46491  Metropolitan Educational Council
+46520  California Department of Justice
+46522  City of Henderson, Nevada
+46565  City of Columbia
+46631  City of Wheaton
+46637  City of Rock Falls
+46674  City of Grand Rapids
+46692  City of Windom
+46788  Milwaukee County Government
+46792  Paragould Municipal Utilities
+46846  U.S. Department of Energy
+46879  North Central Texas Council of Governments
+46880  City of Irvine
+46963  City of Winston-Salem
+46966  City of Grand Island
+47031  City of Charlottesville
+47032  City of Miami
+47519  Kuwait Ministry of Defense
+47672  CENTRUM ZASOBOW CYBERPRZESTRZENI SIL ZBROJNYCH
+47736  IT and Development Center of Ministry of Interior, Estonia
+47797  Essex County Council
+47922  Latvian Geospatial Information Agency
+47944  Chambre des Deputes Luxembourg
+48037  SSC-ICT Haaglanden
+48109  Information and eGovernment Authority
+48184  Tax Committee under the Government of the Republic of...
+48247  Government of Kaliningrad region
+48298  MINISTERSTVO VNITRA CR
+48703  CAISSE NATIONALE DE LASSURANCE MALADIE
+48751  United Nations Logistics Base
+48843  MUNICIPIUL BUCURESTI
+48928  U.M. 0296 BUCURESTI
+49010  Herning Kommune
+49016  JSC Georgian State Electrosystem
+49049  Bath North East Somerset Council
+49077  UM 02499 BUCURESTI
+49234  Bundesministerium des Innern und fuer Heimat
+49324  Nottingham City Council
+49369  Staff Governor and Government of the Orenburg region
+49437  Institutul National de Cercetare Dezvoltare pentru Fi...
+49507  Institutul National de Cercetare-Dezvoltare pentru Fi...
+49666  Telecommunication Infrastructure Company
+49728  Herefordshire Council
+49918  Institutul pentru Tehnologii Avansate
+49932  State Autonomous Institution of Khakass Republic Cent...
+49950  Ministry of Interior of Republic of Bulgaria
+50192  Autoritatea Electorala Permanenta
+50222  Federal Government Cultural Organization State Acade...
+50233  Department of Information Technology Services (DITS)
+50252  Camera Deputatilor
+50256  State Enterprise Agriculture Information and Rural Bu...
+50270  Nasjonal kommunikasjonsmyndighet
+50290  Valtion tieto- ja viestintätekniikkakeskus Valtori
+50758  Airbus Defence and Space SAS
+50893  Ministry of Welfare Republic of Latvia
+50944  Institutul National al Patrimoniului
+51010  National Agency of Public Registry
+51051  Saratov Region Government Administration
+51098  Agentia Spatiala Romana
+51172  DOMREG
+51438  Boly Varos Onkormanyzat
+51455  Airbus Defence and Space SAS
+51482  Banedanmark
+51566  TURK PATENT ENSTITUSU
+51707  Medway Towns Council
+51882  Government of Kurgan area
+51912  Department of Digital Development and Communications ...
+51970  Unitatea Executiva pentru Finantarea Invatamantului S...
+52184  Main Center of Information and Computing Ministry of ...
+52293  Gobierno de Santa Fe
+52318  Agencia de Sistemas de Informacion, Gobierno de la Ci...
+52608  ASSEMBLEIA LEGISLATIVA DE MINAS GERAIS
+52622  Tribunal Regional do Trabalho da 4 Regiao
+52628  Tribunal de Justiça do Estado do Pará
+52649  Tribunal de Justica do Estado do Rio Grande do Sul
+52740  PRODAP-Centro de Gestao da Tecnologia e Informacao
+52867  TRIBUNAL REGIONAL DO TRABALHO 12 REGIAO
+52890  Centro Integrado de Telemática do Exército
+52958  Empr.Tec.Inform.Comun. Mun.SP-PRODAM-SP S/A
+52997  PARANÁ TRIBUNAL DE JUSTIÇA
+53012  Secretaria Municipal de Planejamento
+53016  PRODEPA - Emp Tec da Inf e Com do Estado do Pará
+53116  Informática de Municípios Associados S/A - IMA
+53159  SUPREMO TRIBUNAL FEDERAL
+53188  CONS NAC DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGI
+53203  Inst. de Tec. da Informação e Comunicação do ES.
+53204  Parque Ecológico São Carlos / PMSC
+53302  Baltimore County Government
+53442  City of Coquitlam
+53455  Government of Newfoundland and Labrador, Office of th...
+53472  City of Kirkland Washington
+53500  Wisconsin Department of Justice
+53527  Los Angeles Sheriffs Department
+53789  City of Lebanon
+54050  Government Personnel Mutual Life Insurance Company
+54068  City of Greenville, SC
+54099  City of Savannah
+54156  City of Huntsville
+54157  Orange County Government
+54179  Ventura County Office of Education
+54199  City of Frisco
+54222  City of Cedar Park
+54245  City of Durango
+54332  City of Boise
+54371  City of Roseville - Minnesota
+54385  City of Tolleson
+54469  City of Vacaville
+54474  City of Santa Cruz
+54549  City of Vallejo, A municipal corporation
+54669  Larimer County Government
+54735  Peraton Labs Inc.
+54797  CITY OF AURORA
+54832  City of Carlsbad
+54883  City of Richmond, Virginia
+54885  State of Idaho
+55046  National Government Services, Inc.
+55063  City of Fairfax
+55131  United States Special Operations Command
+55135  High Performance Data Facility
+55178  City of Morganton
+55330  Afghan Telecom
+55433  Centre for Development of Advanced Computing
+55435  Whangarei District Council
+55446  CENTRE FOR DEVELOPMENT OF TELEMATICS
+55566  Inter University Centre for Astronomy and Astrophysics
+55580  Moreton Bay Regional Council - Pine Rivers Office
+55741  West Bengal Electronics Industry Development
+55870  Darwin City Council
+56051  Department of Water (WA)
+56105  Department of Education and Training - Victoria
+56141  Danang ICT Infrastructure Development Center
+56236  Badan Narkotika Nasional
+56506  Main Department of Internal Affairs of the Samara region
+56519  Ministerul Apararii Nationale
+56557  Department of Digital Development of the Voronezh region
+56561  Central Bank of the Republic of Armenia
+56588  Information System Authority
+56670  West Sussex County Council
+56751  Ministry of Internal Affairs of Ukraine
+56855  Ministry of Internal Affairs
+56929  WANDSWORTH-BOROUGH-COUNCIL
+56974  State Revenue Committee of the Republic of Armenia
+56978  National Security and Defence Council of Ukraine Staff
+57058  Road Traffic Safety Directorate Republic of Latvia
+57124  Gemeente Maastricht
+57201  Estonian Defence Forces
+57352  Rossiya Segodnya
+57445  Administration of the President of Georgia
+57580  Federal State Budgetary Institution Research Center ...
+57602  Statens Jordbruksverk
+57637  Government of the Khabarovsk Krai
+57729  Kópavogsbær
+57736  Holstebro Kommune
+57956  Rīgas satiksme
+57965  International Committe of the Red Cross (ICRC)
+57968  Ministry of Foreign Affairs
+58031  Government Communication Agency, republic of Abkhazia
+58083  Gemeente Zaanstad
+58151  National Library of Turkey
+58185  Ministry of Justice of Georgia
+58282  Statens IT
+58469  Ministry of Communication & IT
+58476  Direktorat Jenderal Pajak
+58488  Pusdatin KKP
+58545  DUBBO REGIONAL COUNCIL
+58716  Penrith City Council
+58812  Information Technology Center
+59132  Bank Indonesia
+59142  Pemerintah Kota Batam
+59151  Diskominfo DIY
+59189  Department of Information Technology & Communication,...
+59193  IIT Hyderabad
+59503  LEPL Digital Governance Agency
+59619  Blackpool Borough Council
+59715  Comune di San Benedetto del Tronto
+59801  Main Center of Information and Computing Ministry of ...
+60179  GBU RS(Y) YARMIAC
+60279  Gmina Miasta Elk
+60324  Latvijas Sabiedriskais medijs VSIA
+60562  Ministry Of Health and Medical Education
+60583  SOCIETATEA NATIONALA NUCLEARELECTRICA SA BUCURESTI SU...
+60903  Tyrnävän kunta
+60967  National system of payment cards Joint-stock Society
+60997  Stadt Koeln
+61014  JSC Kurganmashzavod
+61106  PS Cloud Services LLC
+61128  Odense Kommune
+61160  Biblioteca Apostolica Vaticana
+61352  Staatsbetrieb Saechsische Informatik Dienste
+61353  INSTITUTUL NATIONAL DE CERCETARE DEZVOLTARE PENTRU FI...
+61458  GOBIERNO AUTÓNOMO MUNICIPAL DE LA PAZ
+61569  Tribunal Regional Federal da 1a Regiao
+61572  CONTROLADORIA-GERAL DA UNIÃO
+61612  DEPARTAMENTO DE CIÊNCIA E TECNOLOGIA AEROESPACIAL
+61656  AGENCIA NACIONAL DE TELECOMUNICACOES - ANATEL
+61738  Sec. de Estado de Plan. e Orçamento do DF
+61779  Prefeitura do Municipio de Piracicaba
+61903  MUNICIPIO DE NOVO HAMBURGO
+61933  Prefeitura Municipal de Tangara da Serra
+62022  City of Espoo
+62090  Randers Kommune
+62186  Gjovik Kommune
+62220  State Regional Development Agency Republic of Latvia
+62260  AB LIETUVOS PASTAS
+62364  Plymouth City Council
+62507  City of Hampton, Virginia
+62548  City of Norwich Department of Public Utilities
+62559  CITY OF PEORIA
+62648  City of Mont Belvieu
+62658  City of Wyandotte
+62798  Point Broadband Fiber Holding, LLC
+62841  City of New Orleans
+62924  City of Bryan, Texas
+63010  City of LaGrange, Georgia
+63097  City of Poway
+63254  Department of Information Technology
+63316  City of Foster City
+63317  Greenville County
+63385  Gouvernement du Quebec (Government of Quebec)
+63500  Lembaga Pengembangan Teknologi Informasi dan Komunikasi
+63770  Industrial Cyber Security Center of Excellence
+63932  Bangladesh Computer Council
+64026  Pemerintah Kabupaten Cirebon
+64261  City of Cartersville
+131150  Education Bureau, Kaohsiung City Government, Taiwan
+131239  Auckland Council
+131268  Sunshine Coast Regional Council
+131279  Ryugyong-dong (DPRK)
+131341  Department of Information Technology, Government of Nepal
+131693  Kementerian Agama (KEMENAG)
+131724  Diskominfo Jateng
+131765  Kemendagri RI
+131782  Kementerian Badan Usaha Milik Negara
+131784  Sumber Daya dan Perangkat Pos dan Informatika
+131785  Mahkamah Agung RI
+132027  Hastings District Council
+132043  Directorate Of IT Maharashtra
+132066  New Plymouth District Council
+132117  Ministry of Interior
+132205  YARRA CITY COUNCIL
+132219  Ministry of Maori Development (Te Puni Kokiri)
+132228  Vanuatu Government
+132237  GOVERNMENT TECHNOLOGY AGENCY
+132293  GOVERNMENT TECHNOLOGY AGENCY
+132321  NORTHERN TERRITORY OF AUSTRALIA
+132469  Department of Primary Industries and Regional Development
+132599  Ministry of Posts and Telecommunication
+132616  Ipswich City Council
+132634  Direktorat e-Government
+132723  Tararua District Council
+132909  ACT Government InTACT Group
+133015  City of Stirling
+133037  KERALA STATE IT MISSION
+133102  Sydney Anglican Home Mission Society Council
+133345  KEMENKO POLHUKAM RI
+133383  Vanuatu Government
+133387  GOVERNMENT TECHNOLOGY AGENCY
+133826  Direktorat Jenderal Pendidikan Tinggi
+133839  Dinas Komunikasi dan Informatika Tangerang Kota
+134073  The Revenue Department
+134099  CASS - NZ Central Government
+134111  Commonwealth Scientific and Industrial Research Organ...
+134131  Whakatane District Council
+134164  NSW Government Telecommunications Authority
+134635  Diskominfo Kab. Banyuwangi
+134659  Diskominfo DKI Jakarta
+134690  Chulachomklao Royal Military academy member of UniNet
+134819  GOVT OF INDIA
+135008  GOVERNMENT TECHNOLOGY AGENCY
+135018  Manly Council
+135118  The Corporation of the City of Adelaide
+135457  Badan Siber dan Sandi Negara
+135471  PEMERINTAH KABUPATEN BOYOLALI
+135472  Diskominfo Kab. Sleman
+135473  BPJS Ketenagakerjaan
+135485  Pemerintah Kota Kediri
+135551  Malaysian Communication and Multimedia Commission
+135666  Government Data Center (DITT/MoIC)
+135675  Queensland Local Government Superannuation Board
+135769  U R Rao Satellite Centre
+135835  Sardar Vallabhbhai Patel National Police Academy
+135860  New Delhi Municipal Council
+136035  Department of Tourism
+136060  Disinfolahtal
+136067  Diskominfo Kab. Bantul
+136085  Pemerintah Kabupaten Bojonegoro
+136087  Kementerian Ketenagakerjaan RI
+136094  Markas Besar TNI Angkatan Darat
+136154  Rockhampton City Council
+136291  Madhya Pradesh State Electronics Development Corporat...
+136601  GOVERNMENT TECHNOLOGY AGENCY
+136656  Jharkhand Agency For Promotion Of Information Technology
+136659  Itec Department, Government Of Telangana
+136667  Space Applications Centre
+136701  National Highways Authority Of India
+136842  PEMERINTAH PROVINSI PAPUA
+136882  Diskominfotik Kota Cirebon
+136889  Diskominfo Kab. Sidoarjo
+136971  Wyndham City Council
+137287  DINAS KOMUNIKASI DAN INFORMATIKA KAB. BEKASI
+137291  Diskominfo Kab. Trenggalek
+137294  Pusat Hidrografi dan Oseanografi TNI Angkatan Laut
+137308  Diskominfo Kab. Klaten
+137318  Diskominfo Kab. Pati
+137340  Dinas Komunikasi dan Informatika Pemerintah Kota Depok
+137342  Diskominfo Tangerang Selatan
+137361  Diskominfo Kab. Malang
+137379  Diskominfo Kota Bekasi
+137381  Diskominfo Kab. Grobogan
+137540  Bangladesh Roads and Highways Department
+137590  Ua E Governance In Pmu
+137646  Department of Governance Reforms
+137671  ITE&C DEPARTMENT, GOVERNMENT OF A.P.
+138050  Dinas Komunikasi Provins Jawa Barat
+138055  BADAN INTELIJEN NEGARA
+138059  PEMERINTAH KABUPATEN PURWOREJO
+138071  Pemerintah Provinsi Kalimantan Tengah
+138082  DINAS KOMINFO PASURUAN
+138086  Mahkamah Konstitusi RI
+138095  PEMERINTAH KABUPATEN NGAWI
+138097  Diskominfo Kep. Riau
+138114  Diskominfo Kab. Tangerang
+138127  Pemerintah Kabupaten Madiun
+138247  Liquid Propulsion Systems Centre
+138488  Moonee Valley City Council
+138727  Center For E-governance
+138806  Diskominfo Kab. Kulon Progo
+138835  Diskominfo Kab. Pacitan
+138851  Pemerintah Kota Payakumbuh
+138852  Dinas Komunikasi dan Informatika Kabupaten Badung
+138858  PEMERINTAH DAERAH KABUPATEN JAYAPURA
+139154  Big Data Center Of Shandong Province
+139237  Nepal Police
+139364  Pemerintah Kabupaten Gunungkidul
+139368  Diskominfo Prov. Kalimantan Selatan
+139439  PT Perusahaan Pengelola Aset
+139501  National Crime Records Bureau
+139614  BANGKO SENTRAL NG PILIPINAS
+139828  Ministry of Social Development
+139940  Dinas Komunikasi dan Informatika Kabupaten Sampang
+139943  Dinas Komunikasi dan Informatika Kabupaten Garut
+139948  Diskominfo Kota Banjarbaru
+139980  Diskominfo Kota Tasikmalaya
+139992  Diskominfo Kab. Cilacap
+140002  Kantor Kesehatan Pelabuhan Kelas II Semarang
+140023  Dinas Komunikasi dan Informatika Kota Madiun
+140110  Vikram Sarabhai Space Centre
+140170  Office Of The Registrar General India
+140424  Diskominfosantik Sulawesi
+141048  Diskominfo Kab. Kuningan
+141058  Pemerintah Kabupaten Soppeng
+141066  Diskominfo Kab. Samosir
+141288  National Institute Of Science Education And Research ...
+141295  Madhya Pradesh Agency For Promotion Of Information ...
+141478  Director National Institute Of Technology Calicut
+141501  National Informatics Centre Services Incorporated
+141583  BLDK Mahkamah Agung
+141644  Dinas Komunikasi dan Informatika Kabupaten Blora
+141659  Badan Nasional Penanggulangan Bencana
+142314  Diskominfosantik Kab. Buleleng
+142343  Diskominfo Kab. Rembang
+142384  Diskominfo Kab. Jember
+147136  Dinas Komunikasi dan Informasi Kabupaten Sragen
+147171  Badan Riset dan Inovasi Nasional
+149154  Department of Science and Technology of Lao Cai province
+149265  Isro Inertial Systems Unit
+149372  Institut Agama Islam Negeri Bukittinggi
+149375  Diskominfosantik Kab. Serang
+149384  Dinas Komunikasi dan Informatika Kabupaten Tabalong
+149402  Diskominfo Kab. Probolinggo
+149607  National Forensic Sciences University
+149676  Dinas Komunikasi dan Informatika Kabupaten Lumajang
+149699  RSUD Dr Moewardi
+149748  Dinas Komunikasi Dan Informatika Kab. Pamekasan
+149889  Diskominfo Kab. Soralangun
+149968  Diskominfo Kabupaten Humbang Hasundutan
+149974  Dinas Komunikasi dan Informatika Kabupaten Pemalang
+150188  Diskominfo Kab. Belitung
+150283  Dinas Komunikasi Informatika, Statistik dan Persandia...
+150442  Bangladesh Fire Service and Civil Defense
+150925  Diskominfo Kab. Sumenep
+150943  Diskominfotiksan Kota Dumai
+151007  Diskominfo Kab. Muaro Jambi
+151561  PT ASABRI
+151645  Ministry of Justice
+152422  Dinas Komunikasi dan Informatika Kabupaten Lamongan
+152576  DEPARTMENT OF CONSUMER AFFAIRS
+152671  SPARCS
+153075  BPJS Kesehatan
+153213  DEPARTMENT OF IT AND COMMUNICATION
+154367  Dinas Komunikasi dan Informatika, Statistik Dan Persa...
+196722  Schweizerische Nationalbank
+196778  Transport for London
+196821  AzInTelecom LLC
+196852  National Health Insurance Fund Republic of Lithuania
+196870  Freistaat Thueringen
+196902  Dudley Metropolitan Borough Council
+197016  Provincie Friesland
+197136  Ministry of Foreign Affairs
+197370  Nottinghamshire County Council
+197489  State Corporation Bank of Development WEB.RF
+197497  OFFICE OF THE PRIME-MINISTER OF THE REPUBLIC OF ARMEN...
+197553  Federal State Budgetary Institution State Research I...
+197668  Kirov Region Governor and Government Administration
+197829  Gobierno de Navarra
+197869  Luxembourg House of Cybersecurity
+197874  Landeshauptstadt Muenchen, it@M
+197942  Forsakringskassan
+197973  Registers Iceland
+198033  Ministry of finance of Ukraine
+198142  Warrington Borough Council
+198435  DVZ Datenverarbeitungszentrum Mecklenburg-Vorpommern GmbH
+198472  Manchester City Council
+198530  Haderslev Kommune
+198531  Silkeborg Kommune
+198561  Legal Entity Under Public Law Financial Analytical Service
+198687  Provincie Noord-Holland
+198730  Ministerie van Financien
+198815  Ríkisútvarpið Ohf
+199131  City of York Council
+199148  Ministry of Health of Russian Federation
+199189  CHAMBER OF COMMERCE AND INDUSTRY OF ROMANIA
+199300  The State Agency of Medicines of Latvia
+199350  Ministerstvo financi
+199541  EUROCONTROL
+199583  Municipal Government Institution of Krasnodar city Mu...
+199663  Treasury Republic of Latvia
+199729  Ministry of Education
+199844  RARIK ohf.
+200145  Aarhus Kommune
+200189  Banca Nationala a Moldovei
+200364  Department of Press and Mass Media of Altay region
+200521  Ministerio de Transformacion Digital y de la Funcion ...
+200538  Rudersdal Kommune
+200568  LEPL Digital Governance Agency
+200630  Valtion tieto- ja viestintätekniikkakeskus Valtori
+200764  DEPARTEMENT DU GARD
+200777  Deutsche Welle Anstalt des Oeffentlichen Rechts
+201139  Alavuden Kaupunki
+201174  Tbilisi City Hall
+201547  National Library of Latvia
+201557  Valoo Oy
+201643  GBU SO Operator of Electronic Government
+201688  Bilgi Teknolojileri ve iletisim Kurumu
+201720  Fredensborg Kommune
+201762  Royal Borough of Kingston Council
+201859  Ministeries van de Vlaamse Gemeenschap
+201897  Freeport of Riga
+202024  TELECOMMUNICATIONS AND DIGITAL GOVERNMENT REGULATORY ...
+202123  Nationale Alarmzentrale NEOC
+202342  Federal State Budgetary Institution National Medical...
+202394  KP Irpinkomunikaciaservice Irpin City Council
+202407  Pohjois-Pohjanmaan Sairaanhoitopiirin kuntayhtyma
+202519  Welsh Government
+202553  Dienst Uitvoering Onderwijs
+202655  Ministry of Education (MOE)
+202710  ABnet Sh.p.k
+202865  Dicastero per la Comunicazione
+202961  Alabuga Special Economic Zone
+203147  Ministry Of Interior - Kuwait
+203242  Gemeente Geldrop-Mierlo
+203310  Ministry of Internal Affairs
+203311  NATO Cooperative Cyber Defence Centre of Excellence
+203396  Ministerie van Economische Zaken
+203474  Gemeente De Fryske Marren
+203506  MINISTRY OF DEFENCE OF MONTENEGRO (MINISTARSTVO ODBRA...
+203581  Region Hovedstaden
+203609  Suomen Erillisverkot Oy
+203665  UK Ministry of Defence
+203673  Alesund Kommune
+203703  IT Baden-Württemberg (BITBW)
+204182  Ministeries van de Vlaamse Gemeenschap
+204206  Digital Dubai Government Establishment
+204222  His Majestys Revenue and Customs
+204260  Registers of Scotland
+204341  Valtion tieto- ja viestintätekniikkakeskus Valtori
+204452  Vaestorekisterikeskus
+204486  Cheshire East Council
+204635  Dienst Wegverkeer
+204679  NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INS...
+204806  Ministry of Interior - Telecommunication Department
+205033  Stadt Regensburg
+205250  Turun Kaupunki
+205346  Lennuliiklusteeninduse AS
+205370  Maritime Administration of Latvia
+205461  Pole emploi
+205471  Telephone Network of Ashgabat City CJSC
+205637  Gemeente Amsterdam
+205760  Syddjurs Kommune
+205861  Unitatea Militara 02630
+205989  relaxt Webdienstleistungsagentur GmbH
+206010  Rekstrarfélag Stjórnarráðsins
+206341  Stadt Dortmund
+206418  Gentofte Kommune
+206458  Het Vlaams Parlement
+206490  Southend-on-Sea City Council
+206600  Ministry of Foreign Affairs Republic of Latvia
+206629  Ministry of Justice
+206645  Ministry of Regional Development and Public Works
+206845  FSBI SCCS of A. N. Bakulev of The Ministry of Health
+206860  Oulunkaaren kuntayhtymä
+206879  Ministry of Electricity and Water
+206918  Department for Work and Pensions
+206977  STATE SERVICE OF SPECIAL COMMUNICATION AND INFORMATIO...
+207263  TUBITAK-BILGEM
+207275  Gemeente Gooise Meren
+207282  HUS Group
+207316  Danmarks Eksport- og Investeringsfond
+207894  Gemeente Sudwest-Fryslan
+208096  Serviciul de Telecomunicatii Speciale
+208153  Nationaal Cyber Security Centrum (NCSC-NL)
+208237  Naestved Kommune
+208240  Gemeente Rotterdam
+208284  Latvian Environment, Geology and Meteorology Centre
+208508  Landeshauptstadt Dresden, EB IT Dienstleistungen Dresden
+208551  Aabenraa Kommune
+208605  Government of Magadan Region
+208654  Gemeente Gouda
+208740  Bundesministerium fuer europaeische und international...
+208820  DEPARTEMENT DE LA SEINE-SAINT-DENIS
+208973  Gemeente Haarlem
+209125  Kobenhavn Kommune
+209171  Turkiye Cumhuriyeti Icisleri Bakanligi
+209175  Kringvarp Foroya
+209374  The Central Bank of the Republic of Azerbaijan
+209457  Etela-Pohjanmaan Hyvinvointialue
+209511  STATE UNITARY ENTERPRISE OF THE CITY OF MOSCOW MOSGO...
+209676  Vmware International Unlimited Company
+209682  Finavia Oyj
+209721  Gemeente Schiedam
+210140  GAVLEBORGS LANS LANDSTING
+210213  Latvia State Radio and Television Centre (State ICT)
+210229  Ministry of Environment and Water
+210591  Latvia State Radio and Televi (National Armed Forces)
+210592  Fintraffic Tie Oy
+210822  OFICIUL DE STAT PENTRU INVENTII SI MARCI
+210872  NATO SUPPORT AND PROCUREMENT AGENCY
+211080  Ministry of Economy of Republic of Kosovo
+211319  breitbandmessung.de
+211452  Kanton Appenzell Ausserrhoden
+211589  Ríkisútvarpið Ohf
+211734  Vegagerðin
+211799  Taivalkosken kunta
+211875  Government of Jersey
+211929  Kuusamon kaupunki
+212106  Departementenes Digitaliseringsorganisasjon (DIO)
+212151  Gemeente Den Helder
+212157  baten-lastendienst Logius
+212398  Ministry of Environmental Protection and Agriculture ...
+212428  Vejle Kommune
+212542  SE Diia
+212778  Gemeente Leeuwarden
+213009  Department of Information Technology of the Dnipro Ci...
+213065  Uitvoeringsinstituut werknemersverzekeringen
+213099  Gemeente Hilversum
+213158  Nittedal Kommune
+213206  Ministry of Internal Affairs (Kosovo)
+213238  Bundesministerium des Innern und fuer Heimat
+213283  Bundesministerium des Innern und fuer Heimat
+213317  SIEA
+213417  Trabzon Buyuksehir Belediyesi
+213680  Ministry of Foreign Affairs
+214945  Ministerstvo zahranicnich veci Ceske Republiky
+214966  Wetterskip Fryslan
+215215  Bergen kommune
+215324  Latvijas Republikas Satversmes tiesa
+215608  Samgöngustofa
+215776  Kansaneläkelaitos
+262264  SECRETARIA DE GOBIERNO DE AMBIENTE Y DESARROLLO SUSTENTABLE
+262486  PRODAM Processamento de Dados Amazonas S.A
+262655  Tribunal Regional do Trabalho 5a Região
+262679  Governo do Estado de Mato Grosso do Sul
+262714  Empresa Municipal de Informatica s/a
+262882  Prefeitura Municipal de Bauru
+263023  INST DE TECN EM INF E INF DO EST DE AL
+263198  Instituto Nacional de Vitivinicultura
+263261  TRIBUNAL REGIONAL DO TRABALHO DA 3A REGIAO
+263406  Procuradoria Geral de Justiça de Minas Gerais
+263638  Prefeitura de Cuiabá
+263639  AMAZONAS TRIBUNAL DE JUSTICA
+263850  Tribunal Regional do Trabalho 17ª Região
+263857  Tribunal de Contas da União
+263876  SUPERIOR TRIBUNAL DE JUSTICA
+263953  Tribunal de Justiça de Santa Catarina
+264019  Tribunal de Justiça do Estado de Rondônia
+264080  MINISTERIO DE MINAS E ENERGIA
+264087  FUNDACAO PAULISTA DE TECNOLOGIA E EDUCACAO
+264102  Tribunal Regional do Trabalho 9ª Região
+264313  PROCURADORIA GERAL DE JUSTICA DE RORAIMA
+264338  Companhia de Processamento de Dados da Paraiba
+264423  Departamento de Trânsito do Estado do Pará
+264467  TRIBUNAL SUPERIOR DO TRABALHO
+264468  Conselho Nacional de Justiça
+264469  CONSELHO DA JUSTICA FEDERAL
+264476  Tribunal Regional do Trabalho 13a. Regiao
+264481  TRIBUNAL REGIONAL DO TRABALHO - 8A REGIAO
+264495  MUNICÍPIO DE BOA VISTA
+264694  EGOVERNMENT UNIT
+264808  Gobierno de Mendoza - Ministerio de Hacienda
+264916  BAHIA TRIBUNAL DE JUSTICA
+265020  FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE
+265049  MUNICIPIO DE FRANCA
+265064  Agência de Tecnologia da Informação do Piauí ATI
+265071  SECRETARIA DA FAZENDA DO ESTADO DO PIAUI
+265073  MUNICIPIO DE BARRA DO CHOCA
+265212  TRIBUNAL DE JUSTICA DO DISTRITO FEDERAL
+265375  Justica Federal de Primeiro Grau no RS
+265431  TRIBUNAL REGIONAL DO TRABALHO-14a.REGIÃO
+265450  Justica Federal de Primeiro Grau no Parana
+265589  Gobierno del Estado de Morelos
+265939  TRIBUNAL REGIONAL DO TRABALHO DA 16A. REGIAO
+265994  ESTADO DO MARANHAO - SEGOV
+266031  PRESIDÊNCIA DA REPÚBLICA
+266432  Tribunal Regional Federal da 4ª Região
+266495  MUNICIPIO DE ARIQUEMES
+267086  MUNICIPIO DE ESTANCIA
+267230  TRIBUNAL REGIONAL DO TRABALHO DA 22a REGIÃO
+267310  COMPANHIA NACIONAL DE ABASTECIMENTO
+267392  RIO GRANDE DO SUL PROCURADORIA GERAL DE JUSTICA
+267509  Tribunal Regional Federal
+267525  TRIBUNAL DE CONTAS DO ESTADO DO PARANA
+267534  TRIBUNAL REGIONAL DO TRABALHO - 23 REGIAO
+267626  Tribunal de Justica de Goias
+267932  CENTRAL INFORMATION TECHNOLOGY OFFICE (CITO)
+268014  Tribunal de Justiça do Estado do Rio de Janeiro
+268178  TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS
+268220  SECRETARIA EXECUTIVA DE FAZENDA
+268293  Tribunal Regional do Trabalho - 11ª Região
+268507  Prefeitura de Balneário Camboriú
+268639  Tribunal Regional do Trabalho da 15ª Região
+268758  Prefeitura Municipal de Sapiranga
+268889  JUSTICA FED DE PRIM INST SECAO JUD DO CEARA
+269045  JUSTICA FEDERAL NO RIO GRANDE DO NORTE
+269175  SECRETARIA MUNICIPAL DE PLANEJAMENTO ORCAMENTO E G
+269191  Prefeitura Municipal de Joinville
+269209  Tribunal Regional do Trabalho da 21ª Região
+269324  PREFEITURA MUNICIPAL DE MARÍLIA
+269346  Secretaria de Estado de Desenvolvimento e Inovacao
+269404  Departamento de Trânsito do Estado - DETRAN/RJ
+269498  Prefeitura Municipal de Lajeado
+269549  Ministério Público Estadual de Mato Grosso do Sul
+269607  SERGIPE MINISTERIO PUBLICO
+269613  Município de Ponta Grossa
+269801  MINISTERIO DE HACIENDA Y FINANZAS
+270308  MUNICIPIO DE MACAE
+270327  SECRETARIA MUNICIPAL DE GESTAO - SEMGE
+270328  Justiça Federal de 1º instância em Pernambuco
+270681  Tribunal de Justiça do Estado da Paraíba
+270710  Centro de Computação da Aeronáutica de Brasília
+271029  Estado de Roraima
+271145  Piauí Link LTDA
+271246  MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA
+271467  RIO GRANDE DO SUL DEFENSORIA PUBLICA DO EST. DO RS
+272336  Secretaría de Relaciones Exteriores
+327795  e-Government Authority
+327861  Department of ICT Government of Seychelles
+327903  Ministry of Information and Communications, Governmen...
+328316  Point dAtterissement Virtuel - Burkina Faso
+328665  Zambia Revenue Authority
+393228  City of Vineland Board of Education
+393281  City of Huntington Beach
+393308  City of Iowa City
+393313  THE INSTITUTE FOR INTERGOVERNMENTAL RESEARCH, INC.
+393341  Spokane County
+393352  CITY OF LAREDO
+393535  Fort Bend County
+393555  City of Baltimore, Mayors Office of Information Technology
+393638  City of Mesquite Texas
+393661  County of Nevada
+393759  City of Austin, Texas
+393777  State of WA Secretary of State
+393799  City of Odessa
+393819  Lackawanna County Government
+393956  City of Richmond
+393993  City of Daytona Beach
+393998  Elk Grove Village Police Department
+394015  Mikmaw Kinamatnewey
+394020  Lexington-Fayette Urban County Government
+394165  City of Greenville, NC
+394216  Pueblo County Government
+394238  GENERAL COUNCIL ON FINANCE AND ADMINISTRATION OF THE ...
+394240  City of Walnut Creek
+394286  City of Johnson City
+394366  City of Saskatoon
+394411  Department of Public Health
+394426  City of Maricopa
+394438  City of Prineville
+394465  Sussex County Government
+394534  City of Chicago
+394613  City of Griffin
+394633  Ascension Technologies
+394712  New York State Office of the State Comptroller
+394748  City of Fort Collins
+394755  City of Rock Hill SC
+394850  City of Cape Coral
+394942  City of Fontana
+394985  City of Hudson, Ohio
+395005  City of Easton
+395134  City of Davis
+395272  City of Montreal
+395386  The City of Moncton
+395399  City of Montreal
+395411  City of Smyrna, GA
+395474  City of Plano, Texas
+395604  City of Cortez
+395614  City of Lansing
+395627  City of Montgomery
+395634  Douglas County Government
+395660  The City of Edmonton
+395708  City of Pearland
+395789  City of Indianapolis
+395872  City of Gastonia
+395877  City of Tempe, Arizona
+395913  The Corporation of the City of Pickering
+396012  City of Scottsdale
+396072  Southern California Association of Governments
+396090  Seminole County Government
+396117  Orange County Fire Authority
+396155  City of Arlington
+396220  Public Utility District No. 1 of Snohomish County
+396262  Fresno County Sheriffs Office
+396320  Metropolitan Airports Commission
+396369  City of Lubbock
+396408  City of Greensboro, NC
+396416  The Government of Saint Kitts and Nevis
+396484  City of Roseville
+396513  County of Fresno
+396890  City of Redmond Washington
+396943  City of Sunnyvale
+396972  Department of Homeland Security
+396973  Department of Homeland Security
+396978  Orange Water and Sewer Authority
+397070  City of Kamloops
+397142  City of Fort Collins
+397276  Ninth Judicial Circuit Court of Florida
+397371  Harris County Department of Education Public Facil
+397375  PROVINCIAL HEALTH SERVICES AUTHORITY
+397486  City of Commerce City
+397799  Seminole County Clerk of Courts and Comptroller
+397824  Alaska Permanent Fund Corporation
+397940  Frederick County Government
+398290  House of Commons
+398412  Weber County
+398440  CITY OF VISALIA
+398821  Government of Montserrat
+398905  Ville de Gatineau
+399436  Cortland County Health Department
+399437  Luzerne County
+399974  Fulton County Government
+400257  City of Rocklin
+400425  CITY OF NORTH RICHLAND HILLS
+400588  Ville de Longueuil
+401343  County Of Dutchess, NY

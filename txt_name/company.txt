@@ -1,0 +1,603 @@
+71  Hewlett Packard Enterprise
+161  Texas Instruments Incorporated
+297  National Aeronautics and Space Administration
+929  KIRINO LLC
+992  Modest Labs LLC
+1011  Accutar Biotechnology (Canada) Inc.
+1660  Verizon Business
+1738  OP Osuuskunta
+1780  Valmet Oyj
+2562  Texas Instruments Incorporated
+2639  ZOHO
+2877  Latvian Shipping Company
+3298  Societe Generale S.A.
+3332  Swedbank Estonia
+3333  Reseaux IP Europeens Network Coordination Centre (RIPE NCC)
+3379  Kaiser Foundation Health Plan, Inc.
+3743  Cleveland Cliffs Steel LLC
+4622  Indonesia Network Information Center
+4783  SYSTEX Corporation
+5091  Stripe, Inc.
+5413  Wavenet Limited
+5420  Kemira Oyj
+5536  Xyberdata
+6507  Riot Games, Inc
+6707  D-Market Elektronik Hizmetler Tic. A.S.
+6833  Terranets bw GmbH
+6852  UB Omaisuudenhoito Oy
+7345  Nokia of America Corporation (fka. Alcatel-Lucent)
+7726  FedEx Internet Technologies Corporation
+8218  Zayo Europe
+8221  ISABEL N.V.
+8240  Information System Authority Republic of Estonia
+8303  Westdeutscher Rundfunk Köln
+8315  WorldStream B.V.
+8373  Deutsche Bank AG
+8454  FMO Flughafen Muenster/Osnabrueck GmbH
+8518  Radio Free Europe/Radio Liberty
+8528  Renault SAS
+8549  Kyndryl Deutschland Aviation Industry Services GmbH
+8983  Nokia Solutions and Networks Oy
+9091  Swedbank Latvia
+9099  Finanz Informatik GmbH & Co. KG
+9159  Credit Agricole SA
+9221  HSBC HongKong
+9293  NTT Com Asia Limited
+9341  PT Indonesia Comnets Plus
+9423  ServerKing.io, LLC
+9498  Bharti Airtel Ltd.
+10248  Blue Ridge Bankshares, Inc.
+10273  Florida Power & Light Company
+11106  Wolfram Research, Inc.
+11281  Roblox (Office)
+11323  Getty Images (Seattle), Inc.
+11652  Kaiser Aluminum Fabricated Products, L.L.C.
+11703  MaRS Discovery District
+11740  Progressive Casualty Insurance Company
+11820  Wikimedia Foundation, Inc.
+11913  Elevate Homescriptions
+12291  Deutsche Post AG
+12565  GROUPE LDLC SA
+12613  Firebrick Limited
+12663  Fastweb SpA
+12678  Badoo Trading Limited
+12696  AXA Technology Services France GIE
+12729  HSBC BANK ANONIM SIRKETI
+12748  IAV GmbH Ingenieurgesellschaft Auto und Verkehr
+12811  Auchan Retail International SA
+12965  SEB Latvia
+12990  Ringier Axel Springer Polska Sp. z o.o.
+13009  Redcentric Solutions Ltd
+13013  Hewlett Packard France S.A.S.
+13014  Hewlett Packard France S.A.S.
+13138  Turk Ekonomi Bankasi Anonim Sirketi
+13244  Rietumu Bank
+13414  Twitter Inc.
+13781  Hopkinsville Electric System
+14114  SAP NIE
+14203  Juniper Networks, Inc.
+14340  Salesforce.com, Inc.
+14725  Crawford & Company
+14740  Magna5 MS LLC
+14749  Russellville Electric Plant Board
+15160  Bank of Montreal
+15248  Metaswitch Networks Corp.
+15451  DATEV eG
+15465  Siemens AG
+15548  Cajamar Caja Rural, Sociedad Cooperativa de Credito
+15590  Atruvia AG
+15605  Connesi S.p.A.
+15684  OPTICOM SIA
+15790  Finanz Informatik GmbH & Co. KG
+15810  Banco Bilbao Vizcaya Argentaria, S.A.
+15818  GASO (LATVIJAS GAZE AS)
+15937  ADIF
+15995  SEB Lithuania
+16062  Latvijas tikli, SIA
+16080  Payplug Enterprise SAS
+16203  NCG Banco SA
+16279  Citadele Group
+16625  Akamai Technologies, Inc.
+17314  Red Hat, Inc.
+17331  Dash Cloud
+17371  Bank of Montreal
+17372  Bank of Montreal
+17450  PT Bank Central Asia Tbk
+17537  HKBN JOS Synergy (HK) Limited
+17904  Sri Lankan Airlines
+18055  Department of Human Services
+18365  PT Gramedia Asri Media
+18437  Pitt-Ohio Express, LLC.
+19366  Fibertown Data Centers
+20075  Radio Free Europe/Radio Liberty
+20509  Elko Grupa as
+20681  Saxo Bank A/S
+20748  Caixabank S.A.
+20763  Bank BPH S.A.
+21420  Swedbank Lithuania
+21490  Alisa Pankki Oyj
+21785  Red Hat, Inc.
+22071  TS Imagine INC
+22348  Cognition AI, Inc.
+22360  Red Hat, Inc.
+22753  Red Hat, Inc.
+23058  Discovery Health
+23414  Autoridad del Canal de Panama
+23820  Rakuten Group, Inc.
+23954  PT Bank Mandiri (Persero) Tbk
+24396  Bank of China (Hong Kong) Limited
+24430  China Post
+24730  Garnier Projects BV
+24809  If Skadeforsakring AB
+24823  VTB Bank (Public Joint-Stock Company)
+24879  BANK POLSKA KASA OPIEKI S.A.
+24972  Lursoft IT
+25011  OeBB Infrastruktur AG
+25107  Industra Bank
+25182  Nederlandse Publieke Omroep
+25213  Hiab Oyj
+25244  deCode genetics Ltd.
+25428  Colruyt Group NV
+25512  CD-Telematika a.s.
+25518  ZUCCHETTI SPA
+25581  GMG AG
+25717  Essity Hygiene and Health
+26221  Bank of Montreal
+26227  Sandelman Software Works Corporation
+27277  Space Exploration Technologies Corporation
+27910  Banco Industrial
+28166  TESA - Telecom South America
+28646  Confederação Int. das Coop. Ligadas ao SICREDI
+28680  IKEA IT AB
+28705  Cybase Limited
+28788  Dustin NL B.V.
+28979  dm-drogerie markt GmbH + Co. KG
+29042  Hermes Europe GmbH
+29067  Hostmaster LLC
+29139  Maersk
+29264  Canal+ Tech SAS
+29266  Danmarks Radio
+29470  RETN Moscow
+29601  UPM-Kymmene Oyj
+29647  HINA - Hrvatska Izvjestajna Novinska Agencija
+29816  Southwest Airlines Co.
+30915  Liebherr-IT Services GmbH
+31154  Toyota Motor Europe SA
+31262  EDICOM CAPITAL S.L.
+31399  Mercedes-Benz Group AG
+31413  Super Bock Bebidas S.A.
+31511  Infrabel NV
+31976  Red Hat, Inc.
+32201  Husky Technologies
+32348  EIDOS-MONTREAL
+32491  Tucows.com Co.
+32590  Valve Corporation
+33741  Dennis Group
+33814  Rolls-Royce Power Systems AG
+33830  Bankalararasi Kart Merkezi AS
+33867  airBaltic Corporation
+34156  DB Systel GmbH (German Railway)
+34403  ING BANK ANONIM SIRKETI
+34409  Polska Press Sp. z o.o.
+34417  BluOr Bank
+34437  CovertHart Networks
+34478  TUBITAK Ulusal Elektronik ve Kriptoloji Arastirrma En...
+34535  Standart AG, LLC
+35036  Akciju sabiedriba RD ALFA
+35237  Sberbank of Russia PJSC
+35333  VIA SMS Group
+35484  SIA ALSO Latvia
+35574  SED Multitel s.r.l.
+35600  Vedege SAS
+35636  SIA Worldline Latvia
+35676  La Poste S.A.
+35734  SIA PNB Print
+35809  SIA DIVI Grupa
+35995  Twitter Inc.
+36385  Google (Corporate Network)
+36459  GitHub, Inc.
+36599  SoftEther Telecommunication Research Institute, LLC
+37028  First Rand Bank Limited
+37497  Network Platforms (PTY) LTD
+37725  Xyberdata
+38381  TravelSky Technology Limited
+38494  PT Bakrie & Brothers Tbk
+38498  Bank Maybank Indonesia
+38529  Reliance Industries Limited WAN Backbone Interface wi...
+38567  PT Rekayasa Industri
+38846  Wolf Feather Culture Information Co., Ltd.
+39083  David Froehlich
+39472  Arion Banki hf
+39532  Landsbankinn hf
+39688  JSC OTP BANK
+39829  Iristel Romania SRL
+39937  LTech Solutions, Ltd.
+40955  Red Hat, Inc.
+41067  SEB Russia
+41726  SIA B2 Impact
+41878  Crosskey Banking Solutions Ab Ltd
+41960  Nextpertise B.V.
+41983  Kaspersky Lab Switzerland GmbH
+42078  XOTEL SIA
+42663  SIA LATVIJAS TALRUNIS
+42849  SIA KODO IT (DATALAT)
+43037  Seznam.cz, a.s.
+43355  GATWICK AIRPORT LIMITED
+43397  items GmbH & Co. KG
+43682  SEB Estonia
+43897  TECE GmbH
+43956  Latvijas Finieris A/S
+43973  QIWI JSC
+44022  Barclays Bank PLC
+44320  Skandinaviska Enskilda Banken AB
+44534  YANDEX LLC
+44595  AO Publishing House Seven Days
+44644  Árvakur hf
+44949  Gigacodes GmbH
+45062  NetEase
+45131  REANNZ Head Office
+45314  PT Medco E&P Indonesia
+45566  Google APAC Corporate Network
+45736  DCS1 - Lighthouse Canton
+45748  PIA : Pakistan International Airlines
+45806  Siam Commercial Bank
+46022  PT Aliansi Sakti
+46024  PT Bank Negara Indonesia (Persero) Tbk
+46644  Social Blade LLC
+47284  Motor Insurers Bureau of Latvia
+47446  Barclays Bank lreland PLC
+47536  PathConnect GmbH
+47545  Verkís hf
+47764  LLC VK (Mail.ru)
+47828  Rapyd Europe hf.
+47941  Red Hat Ltd
+48070  DSM (GB) Limited
+48075  S.W.I.F.T. SC
+48352  LIS Logistische Informationssysteme GmbH
+48821  Mauve Mailorder Software Verwaltung GmbH
+48867  Regional Investment Bank
+48918  Globalways GmbH
+48927  ESEVEN DevOps GmbH
+48972  BetterBe B.V.
+49036  SIA Euro Live Technologies
+49419  Iver Sverige AB
+49473  AZV- Südholstein AöR
+49552  OpenSource Security GmbH
+49670  Insta DefSec Oy
+50040  ANO TV NOVOSTI
+50156  Boxed IT Ltd.
+50323  LEGO System A/S
+50485  Belam - Riga SIA
+50628  Leonix Telecom SAS
+50731  PRO-9 SIA
+50807  Inspiretec LTD
+50845  Verifone Systems France SAS
+50943  HHLA Hamburger Hafen und Logistik AG
+51268  Magnetiq Bank
+51296  Handpoint ehf
+51335  Celeste SAS
+51338  SIA Latvijas Propana gaze
+51347  ESTERIA (SMS solutions SIA)
+51405  Voipgate S.A.
+51610  Signet Bank
+51625  Turkish Airlines Inc.
+51735  Pernod Ricard Slovenija, Trgovina in storitve, d.o.o.
+51894  SIA Mikrotīkls / MikroTik
+51939  Terra Management Consulting Ltd
+51985  Adenis SAS
+52004  Lindex Group Oyj
+52144  MyBit Services BV
+54115  Facebook (Corporate)
+54175  WB Games Montreal Inc
+54528  Richie Software USA, Inc.
+55562  SIX Financial Information Singapore Pte Ltd
+55966  Post Savings Bank of China
+56248  PT Indah Kiat Pulp & Paper Tbk
+56323  Eco Baltia AS
+56454  Tilde SIA
+56496  TV 2 Danmark A/S
+56901  ServerKing.io, LLC
+56938  MAGNUM MEDICAL SIA
+56953  N.V. Nederlandse Gasunie
+56984  ifm electronic GmbH
+56987  ABACLOUDA SAS
+57066  Yleisradio Oy
+57154  Stadtwerke Konstanz GmbH
+57382  Telecommunication Tokelau Corporation Teletok
+57630  84 Grams AB
+57829  IVER
+57946  RPH Business Support AS
+58082  Messagenet S.p.A.
+58182  Wix.com Ltd.
+58308  Cusae SAS
+58385  PT Bank Syariah Mandiri
+58449  PT Nusa Satu Inti Artha
+58484  PT Pratesis
+58816  PT Garena Indonesia
+58921  Capricorn Society Limited
+59073  Bank of China Limited
+59339  BLACKBIRD IT PTY LTD
+59689  Code40 SAS
+59807  Swedbank AB
+59967  SIA EVOLUTION LATVIA
+60254  GLS IT Services GmbH
+60284  Axpo Systems AG
+60318  VSELINK LLC
+60345  icixs networks GmbH
+60350  VENTE-PRIVEE.COM SA
+60436  KBC GLOBAL SERVICES NV
+60608  Olympic Entertainment Group AS
+60679  Freedom Registry BV
+60720  Telenet Solution Ltd
+61005  OpenTLD BV
+61007  OpenTLD BV
+61013  Alliander N.V.
+61232  redIT Services AG
+61277  ScienceSoft SIA
+61977  Path Global UK Limited
+62058  Belgian Radio-television of the French Community
+62485  ServerKing.io, LLC
+62750  Liberty Media Corporation
+62830  RiotGames
+62955  eBay, Inc
+63126  Aptient Consulting Group Inc.
+63179  Twitter Inc.
+63294  DigitalFilm Tree LLC
+63515  Indonesia Network Information Center
+63593  HeyTap PTE.LTD.
+63861  PT Aktif Tengah Malam
+64421  SERTEX (ELEKOP)
+131659  NETEASE
+131697  PT Samudera Indonesia Tbk
+131732  PT Cogindo DayaBersama
+132164  PT Darta Media Indonesia
+133116  Kalgoorlie Consolidated Gold Mines
+133213  TEAM Manufacturing Company Ltd.
+133843  PT Bank Rakyat Indonesia (Persero) Tbk
+134220  Lightwire LTD
+134489  S. B Link Network
+134544  Cenbong Intl Holdings Limited
+134632  PT Lippo Malls Indonesia
+135441  PT Fasa Centra Artajaya
+135445  PT Airpay International Indonesia
+135476  PT Bank Tabungan Pensiunan Nasional
+135483  PT Wisesa Consulting Indonesia
+135847  Ioeaccess Communications Private Limited
+136095  PT Timerindo Perkasa International
+136117  PT Bank Pembangunan Daerah Jawa Barat & Banten
+136126  PT Blue Bird Tbk
+136766  ROBLOX (SHENZHEN) DIGITAL SCIENCE AND TECHNOLOGY CO., LTD
+136769  Guangzhou Fengyun Information Technology Co., Ltd.
+136888  PT Petro One Indonesia
+136964  NZ Safety Blackwoods
+137019  neuCentrIX
+137263  NETEASE HONG KONG LIMITED
+137288  PT Ungaran Sari Garments
+137331  PT Cloud Teknologi Nusantara
+137357  PT Bukit Makmur Mandiri Utama
+137369  PT Integral Data Prima
+137383  PT Mandiri Sekuritas
+137735  China Construction Bank
+137758  Industrial and Commercial Bank of China Limited
+138073  PT Elnusa Tbk
+138341  Shopee Singapore Pte. Ltd.
+138883  PT Asuransi Jiwa Generali Indonesia
+139148  China UnionPay Co., Ltd
+139656  ANZ BANK NEW ZEALAND LIMITED
+139986  PT Henan Putihrai Sekuritas
+140415  PT Jasamarga Tollroad Operator
+140467  PT Kreatif Global Solusindo
+140940  PT Bank Seabank Indonesia
+140982  DCS1 - Broadside
+141253  Hyosec Solutions Private Limited
+141666  PT Industri Kereta Api
+147039  Cyprea Private Limited
+147112  PT Meetaza Prawira Media
+149037  Mavorion Systems
+149546  B G CHITALE
+149753  PT Global Sarana Mediakom
+150006  Aloi Pte. Ltd.
+150158  PHSS Camindo, Ltd.
+150480  PT Swara Logika Laboratory
+151332  CoinJar Pty Ltd
+151544  PDWNet
+151573  PT Kereta Cepat Indonesia China
+152626  Cloudbase Network
+152772  PT Prosperita Sistem Indonesia
+152909  SaferCities
+153129  PT Cashlez Worldwide Indonesia Tbk
+196731  egeplast international GmbH
+197115  KEVA
+197289  AS HELMES
+197347  Allianz Arena Muenchen Stadion GmbH
+197403  Íslandsbanki hf
+197446  SIA Vitol Terminal Latvia
+197466  SIA 3ENITH
+197759  Enapter AG
+197870  S.I.A.IBANPAY
+197930  Haahtela Oy
+198147  Telecommunication Tokelau Corporation Teletok
+198417  DSM Grup Danismanlik Iletisim ve Satis Ticaret Anonim...
+198606  AMST-Systemtechnik GmbH
+198761  Simac IT NL B.V.
+198912  SITA
+199031  SIA Amberbit
+199034  SIA Baltic project group
+199963  Mack International GmbH trading as Europa-Park GmbH &...
+199980  IVENDO sp. z o.o.
+200202  Fuze III SARL
+200249  Products Up GmbH
+200432  Teya Iceland hf
+200567  Wireless Logic mdex GmbH
+200587  Red Bee Media B.V.
+200609  CHDE Polska Spolka Akcyjna
+200696  Ålands Penningautomatförening
+200846  d.velop AG
+201012  KEH eCommerce LLC
+201110  Andritz AG
+201126  CDW Ltd
+201154  IKEA IT AB
+201271  Nordea Bank Abp
+201273  cubequadrat OU
+201315  SIA BFA
+201321  ITQS IKE
+201574  LATVIJAS LOTO VAS
+201673  Verifone Baltic SIA
+201991  Metsäliitto Osuuskunta
+202003  Avast Software Romania S.R.L.
+202032  GOLINE SA
+202049  Encrypted Email Finland Ltd
+202172  Migadu-Mail Gmbh
+202191  Katoen Natie
+202494  Turkiye Petrol Rafinerileri Anonim Sirketi TUPRAS
+202526  HENSOLDT Optronics GmbH
+202555  SIA Tamro
+202589  TestDevLab-SIA
+202617  Kering Eyewear S.p.A.
+202756  Radio Free Europe/Radio Liberty
+202863  OPTIBET LTD
+203176  Reiknistofa bankanna hf.
+203372  GSA Capital Services Ltd
+203491  Estoril Sol Digital, Online Gaming Products And Servi...
+203511  OZBAY BILISIM INTERNET HIZMETLERI LIMITED SIRKETI
+203898  Cloudflare London Office
+203968  aiticon GmbH
+204130  DLV, sia
+204411  Bigbank AS
+204445  DB Systel GmbH (Public WiFi)
+204702  Deutsche Windtechnik GmbH & Co. KG
+204706  JSC Kolesa
+204748  INDUSTRIA DE DISENO TEXTIL SOCIEDAD ANONIMA
+204857  berrybyte Limited
+205037  Kisters AG
+205080  SITA
+205111  ZOHO Corporation B.V
+205310  Beiersdorf Shared Services GmbH
+205461  Pole emploi
+205583  PC Yellow bv
+205614  Medialine EuroTrade AG
+205625  Winfinity
+205627  Daimler Truck AG
+205757  The Walt Disney Company Medya Eglence Ve Tic Ltd. Sti.
+205821  SIA Arena Riga
+206141  Duisburger Versorgungs- und Verkehrsgesellschaft mbH
+206470  Menzel IT GmbH
+206520  HUB logistics Finland Oy
+206541  Kreiss
+206662  Inventx AG
+206713  France Televisions SA
+206718  Radio Free Europe/Radio Liberty
+206970  Avira Holding GmbH
+207047  Raiffeisen Bank Kosovo JSC
+207063  Kentik Technologies, Inc.
+207112  REN - Rede Energeticas Nacionais, S.A.
+207254  AS Postimees Grupp
+207377  Evolution Latvia SIA
+207595  Hestronic BV
+207689  Teikums JT SIA
+207804  DSS AB
+207851  Fara AS
+207994  Blockchain Creek B.V.
+208177  Center-invest Bank
+208272  VR-Group Ltd
+208315  Frauscher Sensor Technology Group GmbH
+208840  F&B Capital GmbH
+208880  YAPI VE KREDI BANKASI A.S.
+208938  Food Union
+208987  Suomen Videoviestinta SVV Oy
+209195  CAJA DE SEGUROS REUNIDOS COMPANIA DE SEGUROS Y REASEG...
+209199  Cloud Unboxed Limited
+209299  Ambientia Group Oy
+209379  Pengutronix e.K.
+209623  GASCADE Gastransport GmbH
+209704  Belgium National Railway Company
+209818  OMEGA LTD
+209846  SWP Stadtwerke Pforzheim GmbH & Co. KG
+209915  trivago N.V.
+209994  LV Informatique SASU
+210000  TwentyWAN MB
+210035  Stiftung Mathias-Spital Rheine
+210167  Valmet Automation Oy
+210303  Hamburg Port Authority AoeR
+210333  Inter Krankenversicherung AG
+210668  SIA Spotrix
+210886  Magnetiq Bank
+211135  Mirka Oy
+211169  CaramelFox Networks LLC
+211424  SIA LSK Studios
+211452  Kanton Appenzell Ausserrhoden
+211527  SIA Orkla Latvija
+211727  Horst Bode Import-Export GmbH
+211793  Ingo Armenia Insurance CJSC
+211838  SIA Aizdevums.lv
+211885  Prodimpekss Logistikas Grupa SIA
+212038  ACTICO GmbH
+212065  WDES SAS
+212132  Evolution Latvia SIA
+212223  Buy Way Personal Finance SA
+212664  Pori Energia Oy
+212676  SIA Decta
+212717  Tietoevry Latvia SIA
+212828  Tom Hatzer trading as twopeaks digital e.U.
+213002  DH Bulut Bilisim Anonim Sirketi
+213022  SIA DPD Latvija
+213202  Cloudnet Computing Ltd
+213427  Lettermint B.V.
+213685  NarDatabank Bilisim ve Teknoloji Anonim Sirketi
+214710  nLogic AS
+214792  Hamburger Hochbahn AG
+215044  OBT AG
+215057  Opera della Primaziale Pisana
+215168  Akos Miklos
+215444  MOA Group GmbH
+215449  Avionero AB
+215537  E-karte SIA
+215712  Printful Latvia AS
+215756  Schmitz-Werke GmbH + Co. KG
+215823  Spaugur ehf.
+215833  Ablative Consulting Ltd
+215955  ALTEASYSTEMS OU
+216421  Adven Group Oy
+262303  eCentry Tecnologia da Informacao Ltda
+263358  Centro B. de P. em A. e S. e de P de Eventos
+268850  IXC Soft
+270421  NU PAGAMENTOS SA
+270532  IB TURBO
+271541  HAVAN SA
+273731  MGDATA TECNOLOGIA LTDA
+274524  Eucatur Transporte e Turismo Ltda
+328238  INFOSET SARL
+328578  KEMNET TECHNOLOGIES LIMITED
+328964  Insight Actuarial Solutions (Pty) Ltd
+329016  Adumo Technologies (Pty) Ltd
+329265  Commercial Bank of Ethiopia
+329418  International Centre for Research in Agroforestry
+393658  Atypon Systems, Inc.
+394230  Civilized Discourse Construction Kit, Inc.
+394265  Box.com
+394270  Cabi LLC
+394337  Simeon Networks LLC
+394456  Epik LLC
+394637  LightChange Technologies
+394649  LotusFlare, Inc.
+395044  APT Labs
+395266  Keysight Technologies, Inc
+395677  GTAA
+396320  Metropolitan Airports Commission
+396940  HTH
+397045  D. Brown Management
+397140  Amarillo National Bank
+397441  Nebula Mods
+397700  LXXIX Project Lab LLC
+397736  Beacon Federal Credit Union
+398726  Cabbit Technology LLC
+399140  Red Hat, Inc.
+399265  Red Hat, Inc.
+399358  Anthropic, PBC
+399647  Rumble USA Inc.
+399728  P Foundation
+399838  VITAL GAME NETWORK, LLC
+399976  Nova Networks Inc
+400172  RackOrbit, LLC
+400422  Modern Treasury Corp.
+400979  CPAC

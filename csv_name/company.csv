@@ -1,0 +1,604 @@
+asn,name,category
+71,Hewlett Packard Enterprise,company
+161,Texas Instruments Incorporated,company
+297,National Aeronautics and Space Administration,company
+929,KIRINO LLC,company
+992,Modest Labs LLC,company
+1011,Accutar Biotechnology (Canada) Inc.,company
+1660,Verizon Business,company
+1738,OP Osuuskunta,company
+1780,Valmet Oyj,company
+2562,Texas Instruments Incorporated,company
+2639,ZOHO,company
+2877,Latvian Shipping Company,company
+3298,Societe Generale S.A.,company
+3332,Swedbank Estonia,company
+3333,Reseaux IP Europeens Network Coordination Centre (RIPE NCC),company
+3379,"Kaiser Foundation Health Plan, Inc.",company
+3743,Cleveland Cliffs Steel LLC,company
+4622,Indonesia Network Information Center,company
+4783,SYSTEX Corporation,company
+5091,"Stripe, Inc.",company
+5413,Wavenet Limited,company
+5420,Kemira Oyj,company
+5536,Xyberdata,company
+6507,"Riot Games, Inc",company
+6707,D-Market Elektronik Hizmetler Tic. A.S.,company
+6833,Terranets bw GmbH,company
+6852,UB Omaisuudenhoito Oy,company
+7345,Nokia of America Corporation (fka. Alcatel-Lucent),company
+7726,FedEx Internet Technologies Corporation,company
+8218,Zayo Europe,company
+8221,ISABEL N.V.,company
+8240,Information System Authority Republic of Estonia,company
+8303,Westdeutscher Rundfunk Köln,company
+8315,WorldStream B.V.,company
+8373,Deutsche Bank AG,company
+8454,FMO Flughafen Muenster/Osnabrueck GmbH,company
+8518,Radio Free Europe/Radio Liberty,company
+8528,Renault SAS,company
+8549,Kyndryl Deutschland Aviation Industry Services GmbH,company
+8983,Nokia Solutions and Networks Oy,company
+9091,Swedbank Latvia,company
+9099,Finanz Informatik GmbH & Co. KG,company
+9159,Credit Agricole SA,company
+9221,HSBC HongKong,company
+9293,NTT Com Asia Limited,company
+9341,PT Indonesia Comnets Plus,company
+9423,"ServerKing.io, LLC",company
+9498,Bharti Airtel Ltd.,company
+10248,"Blue Ridge Bankshares, Inc.",company
+10273,Florida Power & Light Company,company
+11106,"Wolfram Research, Inc.",company
+11281,Roblox (Office),company
+11323,"Getty Images (Seattle), Inc.",company
+11652,"Kaiser Aluminum Fabricated Products, L.L.C.",company
+11703,MaRS Discovery District,company
+11740,Progressive Casualty Insurance Company,company
+11820,"Wikimedia Foundation, Inc.",company
+11913,Elevate Homescriptions,company
+12291,Deutsche Post AG,company
+12565,GROUPE LDLC SA,company
+12613,Firebrick Limited,company
+12663,Fastweb SpA,company
+12678,Badoo Trading Limited,company
+12696,AXA Technology Services France GIE,company
+12729,HSBC BANK ANONIM SIRKETI,company
+12748,IAV GmbH Ingenieurgesellschaft Auto und Verkehr,company
+12811,Auchan Retail International SA,company
+12965,SEB Latvia,company
+12990,Ringier Axel Springer Polska Sp. z o.o.,company
+13009,Redcentric Solutions Ltd,company
+13013,Hewlett Packard France S.A.S.,company
+13014,Hewlett Packard France S.A.S.,company
+13138,Turk Ekonomi Bankasi Anonim Sirketi,company
+13244,Rietumu Bank,company
+13414,Twitter Inc.,company
+13781,Hopkinsville Electric System,company
+14114,SAP NIE,company
+14203,"Juniper Networks, Inc.",company
+14340,"Salesforce.com, Inc.",company
+14725,Crawford & Company,company
+14740,Magna5 MS LLC,company
+14749,Russellville Electric Plant Board,company
+15160,Bank of Montreal,company
+15248,Metaswitch Networks Corp.,company
+15451,DATEV eG,company
+15465,Siemens AG,company
+15548,"Cajamar Caja Rural, Sociedad Cooperativa de Credito",company
+15590,Atruvia AG,company
+15605,Connesi S.p.A.,company
+15684,OPTICOM SIA,company
+15790,Finanz Informatik GmbH & Co. KG,company
+15810,"Banco Bilbao Vizcaya Argentaria, S.A.",company
+15818,GASO (LATVIJAS GAZE AS),company
+15937,ADIF,company
+15995,SEB Lithuania,company
+16062,"Latvijas tikli, SIA",company
+16080,Payplug Enterprise SAS,company
+16203,NCG Banco SA,company
+16279,Citadele Group,company
+16625,"Akamai Technologies, Inc.",company
+17314,"Red Hat, Inc.",company
+17331,Dash Cloud,company
+17371,Bank of Montreal,company
+17372,Bank of Montreal,company
+17450,PT Bank Central Asia Tbk,company
+17537,HKBN JOS Synergy (HK) Limited,company
+17904,Sri Lankan Airlines,company
+18055,Department of Human Services,company
+18365,PT Gramedia Asri Media,company
+18437,"Pitt-Ohio Express, LLC.",company
+19366,Fibertown Data Centers,company
+20075,Radio Free Europe/Radio Liberty,company
+20509,Elko Grupa as,company
+20681,Saxo Bank A/S,company
+20748,Caixabank S.A.,company
+20763,Bank BPH S.A.,company
+21420,Swedbank Lithuania,company
+21490,Alisa Pankki Oyj,company
+21785,"Red Hat, Inc.",company
+22071,TS Imagine INC,company
+22348,"Cognition AI, Inc.",company
+22360,"Red Hat, Inc.",company
+22753,"Red Hat, Inc.",company
+23058,Discovery Health,company
+23414,Autoridad del Canal de Panama,company
+23820,"Rakuten Group, Inc.",company
+23954,PT Bank Mandiri (Persero) Tbk,company
+24396,Bank of China (Hong Kong) Limited,company
+24430,China Post,company
+24730,Garnier Projects BV,company
+24809,If Skadeforsakring AB,company
+24823,VTB Bank (Public Joint-Stock Company),company
+24879,BANK POLSKA KASA OPIEKI S.A.,company
+24972,Lursoft IT,company
+25011,OeBB Infrastruktur AG,company
+25107,Industra Bank,company
+25182,Nederlandse Publieke Omroep,company
+25213,Hiab Oyj,company
+25244,deCode genetics Ltd.,company
+25428,Colruyt Group NV,company
+25512,CD-Telematika a.s.,company
+25518,ZUCCHETTI SPA,company
+25581,GMG AG,company
+25717,Essity Hygiene and Health,company
+26221,Bank of Montreal,company
+26227,Sandelman Software Works Corporation,company
+27277,Space Exploration Technologies Corporation,company
+27910,Banco Industrial,company
+28166,TESA - Telecom South America,company
+28646,Confederação Int. das Coop. Ligadas ao SICREDI,company
+28680,IKEA IT AB,company
+28705,Cybase Limited,company
+28788,Dustin NL B.V.,company
+28979,dm-drogerie markt GmbH + Co. KG,company
+29042,Hermes Europe GmbH,company
+29067,Hostmaster LLC,company
+29139,Maersk,company
+29264,Canal+ Tech SAS,company
+29266,Danmarks Radio,company
+29470,RETN Moscow,company
+29601,UPM-Kymmene Oyj,company
+29647,HINA - Hrvatska Izvjestajna Novinska Agencija,company
+29816,Southwest Airlines Co.,company
+30915,Liebherr-IT Services GmbH,company
+31154,Toyota Motor Europe SA,company
+31262,EDICOM CAPITAL S.L.,company
+31399,Mercedes-Benz Group AG,company
+31413,Super Bock Bebidas S.A.,company
+31511,Infrabel NV,company
+31976,"Red Hat, Inc.",company
+32201,Husky Technologies,company
+32348,EIDOS-MONTREAL,company
+32491,Tucows.com Co.,company
+32590,Valve Corporation,company
+33741,Dennis Group,company
+33814,Rolls-Royce Power Systems AG,company
+33830,Bankalararasi Kart Merkezi AS,company
+33867,airBaltic Corporation,company
+34156,DB Systel GmbH (German Railway),company
+34403,ING BANK ANONIM SIRKETI,company
+34409,Polska Press Sp. z o.o.,company
+34417,BluOr Bank,company
+34437,CovertHart Networks,company
+34478,TUBITAK Ulusal Elektronik ve Kriptoloji Arastirrma En...,company
+34535,"Standart AG, LLC",company
+35036,Akciju sabiedriba RD ALFA,company
+35237,Sberbank of Russia PJSC,company
+35333,VIA SMS Group,company
+35484,SIA ALSO Latvia,company
+35574,SED Multitel s.r.l.,company
+35600,Vedege SAS,company
+35636,SIA Worldline Latvia,company
+35676,La Poste S.A.,company
+35734,SIA PNB Print,company
+35809,SIA DIVI Grupa,company
+35995,Twitter Inc.,company
+36385,Google (Corporate Network),company
+36459,"GitHub, Inc.",company
+36599,"SoftEther Telecommunication Research Institute, LLC",company
+37028,First Rand Bank Limited,company
+37497,Network Platforms (PTY) LTD,company
+37725,Xyberdata,company
+38381,TravelSky Technology Limited,company
+38494,PT Bakrie & Brothers Tbk,company
+38498,Bank Maybank Indonesia,company
+38529,Reliance Industries Limited WAN Backbone Interface wi...,company
+38567,PT Rekayasa Industri,company
+38846,"Wolf Feather Culture Information Co., Ltd.",company
+39083,David Froehlich,company
+39472,Arion Banki hf,company
+39532,Landsbankinn hf,company
+39688,JSC OTP BANK,company
+39829,Iristel Romania SRL,company
+39937,"LTech Solutions, Ltd.",company
+40955,"Red Hat, Inc.",company
+41067,SEB Russia,company
+41726,SIA B2 Impact,company
+41878,Crosskey Banking Solutions Ab Ltd,company
+41960,Nextpertise B.V.,company
+41983,Kaspersky Lab Switzerland GmbH,company
+42078,XOTEL SIA,company
+42663,SIA LATVIJAS TALRUNIS,company
+42849,SIA KODO IT (DATALAT),company
+43037,"Seznam.cz, a.s.",company
+43355,GATWICK AIRPORT LIMITED,company
+43397,items GmbH & Co. KG,company
+43682,SEB Estonia,company
+43897,TECE GmbH,company
+43956,Latvijas Finieris A/S,company
+43973,QIWI JSC,company
+44022,Barclays Bank PLC,company
+44320,Skandinaviska Enskilda Banken AB,company
+44534,YANDEX LLC,company
+44595,AO Publishing House Seven Days,company
+44644,Árvakur hf,company
+44949,Gigacodes GmbH,company
+45062,NetEase,company
+45131,REANNZ Head Office,company
+45314,PT Medco E&P Indonesia,company
+45566,Google APAC Corporate Network,company
+45736,DCS1 - Lighthouse Canton,company
+45748,PIA : Pakistan International Airlines,company
+45806,Siam Commercial Bank,company
+46022,PT Aliansi Sakti,company
+46024,PT Bank Negara Indonesia (Persero) Tbk,company
+46644,Social Blade LLC,company
+47284,Motor Insurers Bureau of Latvia,company
+47446,Barclays Bank lreland PLC,company
+47536,PathConnect GmbH,company
+47545,Verkís hf,company
+47764,LLC VK (Mail.ru),company
+47828,Rapyd Europe hf.,company
+47941,Red Hat Ltd,company
+48070,DSM (GB) Limited,company
+48075,S.W.I.F.T. SC,company
+48352,LIS Logistische Informationssysteme GmbH,company
+48821,Mauve Mailorder Software Verwaltung GmbH,company
+48867,Regional Investment Bank,company
+48918,Globalways GmbH,company
+48927,ESEVEN DevOps GmbH,company
+48972,BetterBe B.V.,company
+49036,SIA Euro Live Technologies,company
+49419,Iver Sverige AB,company
+49473,AZV- Südholstein AöR,company
+49552,OpenSource Security GmbH,company
+49670,Insta DefSec Oy,company
+50040,ANO TV NOVOSTI,company
+50156,Boxed IT Ltd.,company
+50323,LEGO System A/S,company
+50485,Belam - Riga SIA,company
+50628,Leonix Telecom SAS,company
+50731,PRO-9 SIA,company
+50807,Inspiretec LTD,company
+50845,Verifone Systems France SAS,company
+50943,HHLA Hamburger Hafen und Logistik AG,company
+51268,Magnetiq Bank,company
+51296,Handpoint ehf,company
+51335,Celeste SAS,company
+51338,SIA Latvijas Propana gaze,company
+51347,ESTERIA (SMS solutions SIA),company
+51405,Voipgate S.A.,company
+51610,Signet Bank,company
+51625,Turkish Airlines Inc.,company
+51735,"Pernod Ricard Slovenija, Trgovina in storitve, d.o.o.",company
+51894,SIA Mikrotīkls / MikroTik,company
+51939,Terra Management Consulting Ltd,company
+51985,Adenis SAS,company
+52004,Lindex Group Oyj,company
+52144,MyBit Services BV,company
+54115,Facebook (Corporate),company
+54175,WB Games Montreal Inc,company
+54528,"Richie Software USA, Inc.",company
+55562,SIX Financial Information Singapore Pte Ltd,company
+55966,Post Savings Bank of China,company
+56248,PT Indah Kiat Pulp & Paper Tbk,company
+56323,Eco Baltia AS,company
+56454,Tilde SIA,company
+56496,TV 2 Danmark A/S,company
+56901,"ServerKing.io, LLC",company
+56938,MAGNUM MEDICAL SIA,company
+56953,N.V. Nederlandse Gasunie,company
+56984,ifm electronic GmbH,company
+56987,ABACLOUDA SAS,company
+57066,Yleisradio Oy,company
+57154,Stadtwerke Konstanz GmbH,company
+57382,Telecommunication Tokelau Corporation Teletok,company
+57630,84 Grams AB,company
+57829,IVER,company
+57946,RPH Business Support AS,company
+58082,Messagenet S.p.A.,company
+58182,Wix.com Ltd.,company
+58308,Cusae SAS,company
+58385,PT Bank Syariah Mandiri,company
+58449,PT Nusa Satu Inti Artha,company
+58484,PT Pratesis,company
+58816,PT Garena Indonesia,company
+58921,Capricorn Society Limited,company
+59073,Bank of China Limited,company
+59339,BLACKBIRD IT PTY LTD,company
+59689,Code40 SAS,company
+59807,Swedbank AB,company
+59967,SIA EVOLUTION LATVIA,company
+60254,GLS IT Services GmbH,company
+60284,Axpo Systems AG,company
+60318,VSELINK LLC,company
+60345,icixs networks GmbH,company
+60350,VENTE-PRIVEE.COM SA,company
+60436,KBC GLOBAL SERVICES NV,company
+60608,Olympic Entertainment Group AS,company
+60679,Freedom Registry BV,company
+60720,Telenet Solution Ltd,company
+61005,OpenTLD BV,company
+61007,OpenTLD BV,company
+61013,Alliander N.V.,company
+61232,redIT Services AG,company
+61277,ScienceSoft SIA,company
+61977,Path Global UK Limited,company
+62058,Belgian Radio-television of the French Community,company
+62485,"ServerKing.io, LLC",company
+62750,Liberty Media Corporation,company
+62830,RiotGames,company
+62955,"eBay, Inc",company
+63126,Aptient Consulting Group Inc.,company
+63179,Twitter Inc.,company
+63294,DigitalFilm Tree LLC,company
+63515,Indonesia Network Information Center,company
+63593,HeyTap PTE.LTD.,company
+63861,PT Aktif Tengah Malam,company
+64421,SERTEX (ELEKOP),company
+131659,NETEASE,company
+131697,PT Samudera Indonesia Tbk,company
+131732,PT Cogindo DayaBersama,company
+132164,PT Darta Media Indonesia,company
+133116,Kalgoorlie Consolidated Gold Mines,company
+133213,TEAM Manufacturing Company Ltd.,company
+133843,PT Bank Rakyat Indonesia (Persero) Tbk,company
+134220,Lightwire LTD,company
+134489,S. B Link Network,company
+134544,Cenbong Intl Holdings Limited,company
+134632,PT Lippo Malls Indonesia,company
+135441,PT Fasa Centra Artajaya,company
+135445,PT Airpay International Indonesia,company
+135476,PT Bank Tabungan Pensiunan Nasional,company
+135483,PT Wisesa Consulting Indonesia,company
+135847,Ioeaccess Communications Private Limited,company
+136095,PT Timerindo Perkasa International,company
+136117,PT Bank Pembangunan Daerah Jawa Barat & Banten,company
+136126,PT Blue Bird Tbk,company
+136766,"ROBLOX (SHENZHEN) DIGITAL SCIENCE AND TECHNOLOGY CO., LTD",company
+136769,"Guangzhou Fengyun Information Technology Co., Ltd.",company
+136888,PT Petro One Indonesia,company
+136964,NZ Safety Blackwoods,company
+137019,neuCentrIX,company
+137263,NETEASE HONG KONG LIMITED,company
+137288,PT Ungaran Sari Garments,company
+137331,PT Cloud Teknologi Nusantara,company
+137357,PT Bukit Makmur Mandiri Utama,company
+137369,PT Integral Data Prima,company
+137383,PT Mandiri Sekuritas,company
+137735,China Construction Bank,company
+137758,Industrial and Commercial Bank of China Limited,company
+138073,PT Elnusa Tbk,company
+138341,Shopee Singapore Pte. Ltd.,company
+138883,PT Asuransi Jiwa Generali Indonesia,company
+139148,"China UnionPay Co., Ltd",company
+139656,ANZ BANK NEW ZEALAND LIMITED,company
+139986,PT Henan Putihrai Sekuritas,company
+140415,PT Jasamarga Tollroad Operator,company
+140467,PT Kreatif Global Solusindo,company
+140940,PT Bank Seabank Indonesia,company
+140982,DCS1 - Broadside,company
+141253,Hyosec Solutions Private Limited,company
+141666,PT Industri Kereta Api,company
+147039,Cyprea Private Limited,company
+147112,PT Meetaza Prawira Media,company
+149037,Mavorion Systems,company
+149546,B G CHITALE,company
+149753,PT Global Sarana Mediakom,company
+150006,Aloi Pte. Ltd.,company
+150158,"PHSS Camindo, Ltd.",company
+150480,PT Swara Logika Laboratory,company
+151332,CoinJar Pty Ltd,company
+151544,PDWNet,company
+151573,PT Kereta Cepat Indonesia China,company
+152626,Cloudbase Network,company
+152772,PT Prosperita Sistem Indonesia,company
+152909,SaferCities,company
+153129,PT Cashlez Worldwide Indonesia Tbk,company
+196731,egeplast international GmbH,company
+197115,KEVA,company
+197289,AS HELMES,company
+197347,Allianz Arena Muenchen Stadion GmbH,company
+197403,Íslandsbanki hf,company
+197446,SIA Vitol Terminal Latvia,company
+197466,SIA 3ENITH,company
+197759,Enapter AG,company
+197870,S.I.A.IBANPAY,company
+197930,Haahtela Oy,company
+198147,Telecommunication Tokelau Corporation Teletok,company
+198417,DSM Grup Danismanlik Iletisim ve Satis Ticaret Anonim...,company
+198606,AMST-Systemtechnik GmbH,company
+198761,Simac IT NL B.V.,company
+198912,SITA,company
+199031,SIA Amberbit,company
+199034,SIA Baltic project group,company
+199963,Mack International GmbH trading as Europa-Park GmbH &...,company
+199980,IVENDO sp. z o.o.,company
+200202,Fuze III SARL,company
+200249,Products Up GmbH,company
+200432,Teya Iceland hf,company
+200567,Wireless Logic mdex GmbH,company
+200587,Red Bee Media B.V.,company
+200609,CHDE Polska Spolka Akcyjna,company
+200696,Ålands Penningautomatförening,company
+200846,d.velop AG,company
+201012,KEH eCommerce LLC,company
+201110,Andritz AG,company
+201126,CDW Ltd,company
+201154,IKEA IT AB,company
+201271,Nordea Bank Abp,company
+201273,cubequadrat OU,company
+201315,SIA BFA,company
+201321,ITQS IKE,company
+201574,LATVIJAS LOTO VAS,company
+201673,Verifone Baltic SIA,company
+201991,Metsäliitto Osuuskunta,company
+202003,Avast Software Romania S.R.L.,company
+202032,GOLINE SA,company
+202049,Encrypted Email Finland Ltd,company
+202172,Migadu-Mail Gmbh,company
+202191,Katoen Natie,company
+202494,Turkiye Petrol Rafinerileri Anonim Sirketi TUPRAS,company
+202526,HENSOLDT Optronics GmbH,company
+202555,SIA Tamro,company
+202589,TestDevLab-SIA,company
+202617,Kering Eyewear S.p.A.,company
+202756,Radio Free Europe/Radio Liberty,company
+202863,OPTIBET LTD,company
+203176,Reiknistofa bankanna hf.,company
+203372,GSA Capital Services Ltd,company
+203491,"Estoril Sol Digital, Online Gaming Products And Servi...",company
+203511,OZBAY BILISIM INTERNET HIZMETLERI LIMITED SIRKETI,company
+203898,Cloudflare London Office,company
+203968,aiticon GmbH,company
+204130,"DLV, sia",company
+204411,Bigbank AS,company
+204445,DB Systel GmbH (Public WiFi),company
+204702,Deutsche Windtechnik GmbH & Co. KG,company
+204706,JSC Kolesa,company
+204748,INDUSTRIA DE DISENO TEXTIL SOCIEDAD ANONIMA,company
+204857,berrybyte Limited,company
+205037,Kisters AG,company
+205080,SITA,company
+205111,ZOHO Corporation B.V,company
+205310,Beiersdorf Shared Services GmbH,company
+205461,Pole emploi,company
+205583,PC Yellow bv,company
+205614,Medialine EuroTrade AG,company
+205625,Winfinity,company
+205627,Daimler Truck AG,company
+205757,The Walt Disney Company Medya Eglence Ve Tic Ltd. Sti.,company
+205821,SIA Arena Riga,company
+206141,Duisburger Versorgungs- und Verkehrsgesellschaft mbH,company
+206470,Menzel IT GmbH,company
+206520,HUB logistics Finland Oy,company
+206541,Kreiss,company
+206662,Inventx AG,company
+206713,France Televisions SA,company
+206718,Radio Free Europe/Radio Liberty,company
+206970,Avira Holding GmbH,company
+207047,Raiffeisen Bank Kosovo JSC,company
+207063,"Kentik Technologies, Inc.",company
+207112,"REN - Rede Energeticas Nacionais, S.A.",company
+207254,AS Postimees Grupp,company
+207377,Evolution Latvia SIA,company
+207595,Hestronic BV,company
+207689,Teikums JT SIA,company
+207804,DSS AB,company
+207851,Fara AS,company
+207994,Blockchain Creek B.V.,company
+208177,Center-invest Bank,company
+208272,VR-Group Ltd,company
+208315,Frauscher Sensor Technology Group GmbH,company
+208840,F&B Capital GmbH,company
+208880,YAPI VE KREDI BANKASI A.S.,company
+208938,Food Union,company
+208987,Suomen Videoviestinta SVV Oy,company
+209195,CAJA DE SEGUROS REUNIDOS COMPANIA DE SEGUROS Y REASEG...,company
+209199,Cloud Unboxed Limited,company
+209299,Ambientia Group Oy,company
+209379,Pengutronix e.K.,company
+209623,GASCADE Gastransport GmbH,company
+209704,Belgium National Railway Company,company
+209818,OMEGA LTD,company
+209846,SWP Stadtwerke Pforzheim GmbH & Co. KG,company
+209915,trivago N.V.,company
+209994,LV Informatique SASU,company
+210000,TwentyWAN MB,company
+210035,Stiftung Mathias-Spital Rheine,company
+210167,Valmet Automation Oy,company
+210303,Hamburg Port Authority AoeR,company
+210333,Inter Krankenversicherung AG,company
+210668,SIA Spotrix,company
+210886,Magnetiq Bank,company
+211135,Mirka Oy,company
+211169,CaramelFox Networks LLC,company
+211424,SIA LSK Studios,company
+211452,Kanton Appenzell Ausserrhoden,company
+211527,SIA Orkla Latvija,company
+211727,Horst Bode Import-Export GmbH,company
+211793,Ingo Armenia Insurance CJSC,company
+211838,SIA Aizdevums.lv,company
+211885,Prodimpekss Logistikas Grupa SIA,company
+212038,ACTICO GmbH,company
+212065,WDES SAS,company
+212132,Evolution Latvia SIA,company
+212223,Buy Way Personal Finance SA,company
+212664,Pori Energia Oy,company
+212676,SIA Decta,company
+212717,Tietoevry Latvia SIA,company
+212828,Tom Hatzer trading as twopeaks digital e.U.,company
+213002,DH Bulut Bilisim Anonim Sirketi,company
+213022,SIA DPD Latvija,company
+213202,Cloudnet Computing Ltd,company
+213427,Lettermint B.V.,company
+213685,NarDatabank Bilisim ve Teknoloji Anonim Sirketi,company
+214710,nLogic AS,company
+214792,Hamburger Hochbahn AG,company
+215044,OBT AG,company
+215057,Opera della Primaziale Pisana,company
+215168,Akos Miklos,company
+215444,MOA Group GmbH,company
+215449,Avionero AB,company
+215537,E-karte SIA,company
+215712,Printful Latvia AS,company
+215756,Schmitz-Werke GmbH + Co. KG,company
+215823,Spaugur ehf.,company
+215833,Ablative Consulting Ltd,company
+215955,ALTEASYSTEMS OU,company
+216421,Adven Group Oy,company
+262303,eCentry Tecnologia da Informacao Ltda,company
+263358,Centro B. de P. em A. e S. e de P de Eventos,company
+268850,IXC Soft,company
+270421,NU PAGAMENTOS SA,company
+270532,IB TURBO,company
+271541,HAVAN SA,company
+273731,MGDATA TECNOLOGIA LTDA,company
+274524,Eucatur Transporte e Turismo Ltda,company
+328238,INFOSET SARL,company
+328578,KEMNET TECHNOLOGIES LIMITED,company
+328964,Insight Actuarial Solutions (Pty) Ltd,company
+329016,Adumo Technologies (Pty) Ltd,company
+329265,Commercial Bank of Ethiopia,company
+329418,International Centre for Research in Agroforestry,company
+393658,"Atypon Systems, Inc.",company
+394230,"Civilized Discourse Construction Kit, Inc.",company
+394265,Box.com,company
+394270,Cabi LLC,company
+394337,Simeon Networks LLC,company
+394456,Epik LLC,company
+394637,LightChange Technologies,company
+394649,"LotusFlare, Inc.",company
+395044,APT Labs,company
+395266,"Keysight Technologies, Inc",company
+395677,GTAA,company
+396320,Metropolitan Airports Commission,company
+396940,HTH,company
+397045,D. Brown Management,company
+397140,Amarillo National Bank,company
+397441,Nebula Mods,company
+397700,LXXIX Project Lab LLC,company
+397736,Beacon Federal Credit Union,company
+398726,Cabbit Technology LLC,company
+399140,"Red Hat, Inc.",company
+399265,"Red Hat, Inc.",company
+399358,"Anthropic, PBC",company
+399647,Rumble USA Inc.,company
+399728,P Foundation,company
+399838,"VITAL GAME NETWORK, LLC",company
+399976,Nova Networks Inc,company
+400172,"RackOrbit, LLC",company
+400422,Modern Treasury Corp.,company
+400979,CPAC,company

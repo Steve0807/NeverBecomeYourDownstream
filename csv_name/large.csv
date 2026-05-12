@@ -1,0 +1,1656 @@
+asn,name,category
+8,Rice University,large
+9,Carnegie Mellon University,large
+12,New York University,large
+16,Lawrence Berkeley National Laboratory,large
+17,Purdue University,large
+20,University of Rochester,large
+26,Cornell University,large
+32,Stanford University,large
+34,University of Delaware,large
+46,"Rutgers, The State University",large
+59,University of Wisconsin Madison,large
+62,CyrusOne LLC,large
+73,University of Washington,large
+82,Attachmate Corp.,large
+87,Indiana University,large
+88,Princeton University,large
+102,U.S. National Science Foundation,large
+103,Northwestern University,large
+109,"CISCO SYSTEMS, INC.",large
+111,Boston University,large
+137,Consortium GARR,large
+156,Northeastern University,large
+161,Texas Instruments Incorporated,large
+174,"Cogent Communications, LLC",large
+194,University Corporation for Atmospheric Research,large
+209,Lumen (ex. Qwest),large
+210,Utah Education Network,large
+217,University of Minnesota,large
+224,Sikt (Uninett),large
+225,University of Virginia,large
+278,Universidad Nacional Autonoma de Mexico,large
+376,Reseau dInformations Scientifiques du Quebec (RISQ Inc.),large
+513,CERN,large
+553,BelWü,large
+559,SWITCH,large
+577,Bell Canada,large
+680,Deutsches Forschungsnetz (DFN),large
+701,Verizon Business,large
+702,Verizon Business - EMEA,large
+714,Apple Inc.,large
+715,"WoodyNet, Inc.",large
+760,Vienna University Computer Center,large
+766,Entidad Publica Empresarial Red.es,large
+786,Jisc Services Limited,large
+789,Renater,large
+797,"AT&T Services, Inc.",large
+802,York University,large
+823,University of Western Ontario,large
+852,TELUS Communications Inc.,large
+979,NetLab Global,large
+1103,SURF B.V.,large
+1128,Technische Universiteit Delft,large
+1133,University of Twente,large
+1161,Technische Universiteit Eindhoven,large
+1219,Oracle Corporation,large
+1221,Telstra Limited,large
+1241,Nova Telecommunications & Media Single Member S.A,large
+1249,University of Massachusetts - AMHERST,large
+1257,Tele2 Sverige AB,large
+1299,Arelion (fka. Telia Carrier),large
+1312,Virginia Polytechnic Institute and State Univ.,large
+1351,University of Vermont,large
+1653,Vetenskapsrådet / SUNET,large
+1741,CSC - Tieteen tietotekniikan keskus Oy,large
+1742,Harvard University,large
+1776,WU (Wirtschaftsuniversitaet Wien) - Vienna University...,large
+1820,WNET TELECOM USA Corp.,large
+1835,Forskningsnettet - Danish NREN,large
+1853,ACONET,large
+1888,Stichting Centrum voor Wiskunde en Informatica,large
+1897,"NOS COMUNICACOES, S.A.",large
+1916,RNP - Rede Nacional de Ensino e Pesquisa,large
+1930,"Fundacao para a Ciencia e a Tecnologia, I.P.",large
+2047,Hoffmann - La Roche Ltd.,large
+2055,Louisiana State University,large
+2108,Croatian Academic and Research Network,large
+2165,HP Inc.,large
+2200,Renater,large
+2496,University of Kansas,large
+2497,Internet Initiative Japan Inc.,large
+2516,KDDI Corporation,large
+2527,Sony Network Communications Inc.,large
+2553,Florida State University,large
+2571,DHL Information Services (Europe) s.r.o,large
+2576,U. S. Department of Transportation,large
+2611,BELNET,large
+2635,"Automattic, Inc",large
+2639,ZOHO,large
+2647,ORANGE BUSINESS COMMUNICATIONS TECHNOLOGY LIMITED,large
+2665,Shared Services Canada,large
+2715,Fundação Carlos Chagas Filho de Amparo a Pesquisa,large
+2818,BBC,large
+2834,Uppsala University,large
+2843,Linköpings universitet,large
+2846,Lund University,large
+2852,CESNET z.s.p.o.,large
+2856,British Telecommunications,large
+2914,"NTT America, Inc.",large
+3136,State of WI Dept. of Administration,large
+3147,U.S. BANCORP,large
+3209,Vodafone GmbH,large
+3215,Orange S.A.,large
+3236,SERVER.UA LLC,large
+3243,MEO,large
+3258,xTom Japan,large
+3301,Telia Company AB,large
+3303,Swisscom (Schweiz) AG,large
+3313,BT Italia S.p.A.,large
+3316,Internet Exchange MSK-IX JSC,large
+3329,Vodafone Greece,large
+3333,Reseaux IP Europeens Network Coordination Centre (RIPE NCC),large
+3352,TELEFONICA DE ESPANA S.A.U.,large
+3356,Lumen (Level 3),large
+3379,"Kaiser Foundation Health Plan, Inc.",large
+3388,University of New Mexico,large
+3389,Ford Motor Company,large
+3449,Universidad Nacional de Buenos Aires,large
+3456,Charter Communications Inc,large
+3462,HiNet (Chunghwa Telecom),large
+3477,National Oceanic and Atmospheric Administration,large
+3481,State of Connecticut,large
+3486,JPMorgan Chase & Co.,large
+3527,National Institutes of Health,large
+3561,Lumen (ex. Savvis),large
+3573,Accenture LLP,large
+3614,"Dell, Inc.",large
+3685,State University of New York at Buffalo,large
+3701,Link Oregon (University of Oregon),large
+3705,U.S. Government Publishing Office,large
+3724,State of Alaska,large
+3778,Temple University,large
+3786,LG DACOM Corporation,large
+3842,"InMotion Hosting, Inc.",large
+3920,PUSHPKT OU,large
+4015,"CenturyLink Communications, LLC",large
+4046,Federal Aviation Administration,large
+4130,University of Pittsburgh,large
+4134,China Telecom Backbone,large
+4155,USDA,large
+4181,TDS TELECOM,large
+4385,Rochester Institute of Technology,large
+4455,IX Reach Ltd,large
+4515,PCCW IMS Ltd (PCCW Business Internet Access),large
+4528,The University of Hong Kong,large
+4538,China Education and Research Network Center,large
+4583,West Publishing Corporation,large
+4593,ABB Motors and Mechanical Inc.,large
+4608,Asia Pacific Network Information Centre,large
+4611,CNNIC member,large
+4618,Internet Thailand Company Limited,large
+4657,StarHub Ltd,large
+4668,LG CNS,large
+4685,"Asahi Net, Inc.",large
+4694,IDC Frontier Inc.,large
+4713,NTT Communications Corporation (OCN),large
+4755,TATA Communications (formerly VSNL),large
+4758,National Informatics Centre,large
+4760,HKT Limited,large
+4761,PT Indosat Tbk,large
+4766,Korea Telecom,large
+4792,NATE Communications Corporation,large
+4804,Optus (Microplex PTY LTD),large
+4808,China Unicom Beijing Province Network,large
+4811,China Telecom Shanghai IDC Network,large
+4812,China Telecom Shanghai Province Network,large
+4822,National Library of Australia,large
+4837,China Unicom Backbone,large
+4847,China Telecom Beijing Province Network,large
+5403,APA-IT Informations Technologie G.m.b.H,large
+5404,conova communications GmbH,large
+5432,Proximus NV,large
+5483,Magyar Telekom Plc.,large
+5517,CSL Computer Service Langenbach GmbH,large
+5520,Universitaet zu Koeln,large
+5539,SpaceNet AG,large
+5607,Sky UK,large
+5617,Orange Polska Spolka Akcyjna,large
+5650,Verizon (fka. Frontier),large
+5661,UNIVERSITY OF SOUTH FLORIDA,large
+5723,Johns Hopkins University,large
+5774,United States Postal Service,large
+5972,United States Department of Defense (DoD),large
+6057,Administracion Nacional de Telecomunicaciones,large
+6106,"University of California, Riverside",large
+6134,XNNET LLC,large
+6150,National Cancer Institute,large
+6200,University of Illinois Chicago,large
+6220,inContact Inc.,large
+6253,The Prudential Insurance Company of America,large
+6262,Commonwealth Scientific and Industrial,large
+6325,Illinois Century Network,large
+6352,E*TRADE Financial Corporation,large
+6354,"Lycos, Inc.",large
+6356,University of Florida,large
+6360,University of Hawaii,large
+6366,Portland State University,large
+6389,"AT&T Enterprises, LLC",large
+6429,Telmex Chile Internet S.A.,large
+6510,Brigham Young University,large
+6619,SamsungSDS Inc.,large
+6629,National Oceanic and Atmospheric Administration,large
+6646,"Aetna, Inc.",large
+6698,Virtual Systems LLC,large
+6724,Strato GmbH,large
+6730,Sunrise GmbH,large
+6758,Monaco Telecom S.A.,large
+6799,Ote SA (Hellenic Telecommunications Organisation),large
+6805,Telefonica Germany (o2),large
+6810,Bezeq- THE ISRAEL TELECOMMUNICATION CORP. LTD.,large
+6830,Liberty Global Europe Holding B.V.,large
+6848,Telenet BV,large
+6855,"Slovak Telekom, a.s.",large
+6939,Hurricane Electric LLC,large
+6949,"Charles Schwab & Co., Inc.",large
+7004,TELEFÓNICA CHILE S.A.,large
+7018,"AT&T Enterprises, LLC",large
+7040,Netminders Server Hosting,large
+7046,Verizon Business,large
+7162,Scala Data Centers / UNIVERSO ONLINE S/A,large
+7276,University of Houston,large
+7301,National Academy of Sciences,large
+7303,Telecom Argentina S.A.,large
+7359,"CenturyLink Communications, LLC",large
+7506,"GMO Internet Group, Inc.",large
+7552,Viettel Group,large
+7575,Australian Academic and Research Network (AARNet),large
+7625,Kakao Corp,large
+7630,KASIKORNBANK PUBLIC COMPANY LIMITED,large
+7684,SAKURA Internet Inc.,large
+7726,FedEx Internet Technologies Corporation,large
+7764,National Oceanic and Atmospheric Administration,large
+7843,Charter Communications Inc,large
+7896,The Board of Regents of the University of Nebraska,large
+7922,"Comcast Cable Communications, LLC",large
+7941,Internet Archive,large
+7973,Mayo Foundation for Medical Education and Research,large
+7979,"Servers.com, Inc.",large
+8030,AT&T WorldNet,large
+8068,Microsoft Corporation,large
+8069,Microsoft Corporation,large
+8070,Microsoft Corporation,large
+8075,Microsoft Corporation,large
+8076,Department of Housing and Urban Development,large
+8151,UNINET,large
+8193,Uzbektelekom Joint Stock Company,large
+8220,COLT,large
+8234,RAI RadioTelevisione Italiana SPA,large
+8248,Computer Technology Institute and Press Diophantus,large
+8255,Euro-Information-Europeenne de Traitement de lInform...,large
+8267,Academic Computer Centre CYFRONET AGH,large
+8291,The Federal Guard Service of the Russian Federation,large
+8303,Westdeutscher Rundfunk Köln,large
+8304,Ecritel SASU,large
+8308,NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INS...,large
+8342,JSC RTComm.RU,large
+8359,MTS PJSC,large
+8374,Polkomtel Sp. z o.o.,large
+8391,Knipp Medien und Kommunikation GmbH,large
+8400,Telekom Srbija a.d.,large
+8412,T-Mobile Austria GmbH,large
+8414,International Telecommunication Union,large
+8426,Claranet Limited,large
+8434,Telenor Sverige AB,large
+8484,Novye oblachnye technologii LLC,large
+8535,Agora TC Sp.z.o.o.,large
+8551,Bezeq International Ltd.,large
+8560,IONOS SE,large
+8612,Tiscali Italia S.P.A.,large
+8648,dogado GmbH,large
+8659,United Nations International Computing Centre,large
+8660,Italiaonline S.p.A.,large
+8674,Netnod AB,large
+8692,Bundesrechenzentrum GmbH,large
+8708,DIGI ROMANIA S.A.,large
+8739,ICDSoft Ltd.,large
+8763,DENIC eG,large
+8767,M-net Telekommunikations GmbH,large
+8839,SDV6TM SAS,large
+8856,UkrNet Ltd.,large
+8881,1&1 Versatel GmbH,large
+8883,UBS AG,large
+8891,Orange S.A.,large
+8901,GKU Mosgortelecom,large
+8972,Host Europe GmbH,large
+8985,Join-stock company Internet ExchangeMSK-IX,large
+8987,Amazon Gov Cloud,large
+9002,RETN Limited,large
+9063,VSE NET GmbH,large
+9121,Turk Telekom,large
+9123,JSC TIMEWEB,large
+9145,EWE TEL GmbH,large
+9158,Telenor A/S,large
+9159,Credit Agricole SA,large
+9198,JSC Kazakhtelecom,large
+9286,KINX,large
+9308,Abitcool(China) Inc.,large
+9318,SK Broadband Co Ltd,large
+9370,SAKURA Internet Inc.,large
+9371,SAKURA Internet Inc.,large
+9498,Bharti Airtel Ltd.,large
+9597,KDDI Web Communications Inc.,large
+9607,"BroadBand Tower, Inc.",large
+9644,SK Telecom,large
+9752,Flipkart Internet Pvt Ltd,large
+9808,China Mobile Backbone,large
+9829,BSNL (Bharat Sanchar Nigam Ltd),large
+9891,CS LOXINFO Public Company Limited.,large
+9924,"Taiwan Fixed Network, Telco and Network Service Provider.",large
+9952,Hostway IDC,large
+10010,TOKAI Communications Corporation,large
+10029,SHYAM SPECTRA PVT LTD,large
+10122,NETSTAR (SG) PTE. LTD.,large
+10158,Kakao Corp,large
+10361,"Bloomberg, LP",large
+10411,Environmental Systems Research Institute,large
+10668,"Lee Enterprises, Incorporated",large
+10670,COMPANHIA DE TECNOLOGIA DA INFORMAÇÃO ESTADO MG,large
+10694,"Monster Worldwide, Inc.",large
+10745,ARIN Operations,large
+10753,"Level 3 Parent, LLC",large
+10755,Dartmouth College,large
+10794,"Bank of America, National Association",large
+10846,Deere & Company,large
+10879,Unitedhealthcare,large
+10912,Unitas Global,large
+10921,Commonwealth of KentuckyDepartment of Information Systems,large
+10929,eStruxture Data Centers Inc.,large
+10954,SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO,large
+10966,"Alaska Airlines, Inc.",large
+10982,"TiVo, Inc.",large
+10996,Concorde inc.,large
+11019,"HAProxy Technologies, Inc.",large
+11054,"LivePerson, Inc.",large
+11078,Brown University,large
+11105,Simon Fraser University,large
+11106,"Wolfram Research, Inc.",large
+11207,"Boston Globe Media Partners, LLC",large
+11273,"Fiserv Solutions, LLC",large
+11278,Nintendo Of America inc.,large
+11279,George Mason University,large
+11403,NYI,large
+11406,CIGNA,large
+11426,Charter Communications Inc,large
+11432,Telium Telecomunicações Ltda,large
+11442,North Carolina State University,large
+11492,"CABLE ONE, INC.",large
+11520,Allstate Insurance Company,large
+11664,Techtel LMDS Comunicaciones Interactivas S.A.,large
+11696,"Fusion, LLC",large
+11719,Eaton Corporation,large
+11740,Progressive Casualty Insurance Company,large
+11745,University System of New Hampshire,large
+11790,"Random House, Inc.",large
+11807,Divertissements GameLoft Inc,large
+11827,Washington State University,large
+11840,Verisign Anycast US 0D,large
+11855,Unitas Global,large
+11872,Syracuse University,large
+11985,Social Security Administration,large
+12005,University of South Carolina,large
+12059,Internet Light and Power Inc.,large
+12079,Verizon Business,large
+12145,Colorado State University,large
+12148,Clemson University,large
+12217,UNITED PARCEL SERVICE,large
+12229,"SAS Institute, Inc.",large
+12257,"Dell, Inc.",large
+12301,Invitech ICT Services Kft.,large
+12306,Plus.line AG,large
+12312,ecotel communication ag,large
+12322,Free SAS,large
+12329,GLASFASER RUHR GmbH & Co. KG,large
+12337,noris network AG,large
+12353,Vodafone Portugal - Communicacoes Pessoais S.A.,large
+12389,Rostelecom PJSC,large
+12400,Partner Communications Ltd.,large
+12479,Orange Espagne SA,large
+12488,Krystal Hosting Ltd,large
+12516,WEBORAMA SA,large
+12525,INTERNET Ltd.,large
+12601,Cegedim.Cloud SASU,large
+12616,Citytelecom LLC,large
+12637,Seeweb s.r.l.,large
+12678,Badoo Trading Limited,large
+12696,AXA Technology Services France GIE,large
+12732,GutCon GmbH,large
+12813,WorNet AG,large
+12816,Leibniz-Rechenzentrum,large
+12827,Wirtualna Polska Media S.A.,large
+12876,Scaleway,large
+12978,ANDROMEDA TV DIGITAL PLATFORM ISLETMECILIGI A.S.,large
+13008,Entain Services Austria GmbH,large
+13041,Consorci de Serveis Universitaris de Catalunya,large
+13147,Net Info JSCo,large
+13193,Keyyo SA,large
+13223,Council Of Europe,large
+13237,euNetworks GmbH,large
+13335,"Cloudflare, Inc.",large
+13348,CIGNA,large
+13371,Duke University,large
+13445,Cisco Webex LLC,large
+13462,"Institute of Electrical and Electronics Engineers, Inc",large
+13489,EPM Telecomunicaciones S.A. E.S.P.,large
+13490,"Buckeye Cablevision, Inc.",large
+13506,United States Department of the Treasury,large
+13535,"Ning Interactive, Inc.",large
+13588,Paychex Inc.,large
+13645,"BroadbandONE, LLC",large
+13649,Flexential Colorado Corp.,large
+13684,"Medtronic, Incorporated",large
+13767,"DataBank Holdings, Ltd.",large
+13768,Aptum Technologies,large
+13796,University of Connecticut,large
+13812,Fisher Scientific,large
+14061,DigitalOcean LLC,large
+14259,Gtd Internet S.A.,large
+14298,Environmental Protection Agency,large
+14299,"Automatic Data Processing, Inc.",large
+14340,"Salesforce.com, Inc.",large
+14618,"Amazon.com, Inc.",large
+14627,"Vitalwerks Internet Solutions, LLC",large
+14738,Digi-Key Corporation,large
+14744,Unitas Global,large
+14745,Unitas Global,large
+14782,MailChimp,large
+14907,Wikimedia Foundation Inc.,large
+15113,Harman International Industries Inc.,large
+15149,"Core Technology Services, Inc.",large
+15169,Google LLC,large
+15208,Servicio de Impuestos Internos,large
+15224,Adobe Inc.,large
+15318,McGill University,large
+15348,Tucows.com Co.,large
+15391,Sysclay Sp. z o. o.,large
+15395,Rackspace Ltd.,large
+15435,DELTA Fiber Nederland B.V.,large
+15456,InterNetX GmbH,large
+15549,National Information Technologies Joint-Stock Company,large
+15557,SFR SA,large
+15598,NorthC Deutschland GmbH,large
+15632,JSC Alfa-Bank,large
+15685,CASABLANCA INT a.s.,large
+15806,Irish Government,large
+15830,"Equinix, Inc.",large
+15897,Vodafone Telekomunikasyon A.S.,large
+15967,Nazwa.pl Sp.z.o.o.,large
+16075,TAZ Verlags- und Vertriebsgesellschaft mit beschraenk...,large
+16107,Commerzbank Aktiengesellschaft,large
+16125,UAB Cherry Servers,large
+16138,Interia.pl Sp z.o.o.,large
+16182,Erste Bank Polska S.A.,large
+16276,OVH SAS,large
+16326,SmalS vzw,large
+16345,PJSC Vimpelcom,large
+16347,ADISTA SAS,large
+16462,University of Victoria,large
+16509,"Amazon.com, Inc.",large
+16552,Tiggee LLC,large
+16625,"Akamai Technologies, Inc.",large
+16637,MTN SA (Bayobab),large
+16660,Capital One Financial Corporation,large
+16686,"easyDNS Technologies, Inc.",large
+16701,AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO (ARCA),large
+16733,Gen Digital Inc.,large
+16735,Algar Telecom,large
+16751,Open Text Corporation,large
+16839,"SERVICENOW, INC.",large
+16848,NexG,large
+16876,ICANN,large
+16880,TREND MICRO INCORPORATED,large
+16922,University of Oklahoma HSC,large
+17035,NBCUniversal,large
+17054,Expedient,large
+17055,University of Utah,large
+17506,ARTERIA Networks Corporation,large
+17564,GITN Sdn. Bhd.,large
+17623,China Unicom Guangdong Province Shenzhen Network,large
+17676,SoftBank Corp.,large
+17685,"SQUARE ENIX CO., LTD.",large
+17716,National Taiwan University,large
+17881,"Inet Hosting, Inc.",large
+17961,"mitene internet co., ltd.",large
+17983,Coles Supermarkets Australia Pty Ltd,large
+18051,Pustekkom,large
+18160,Kakao Corp,large
+18229,CtrlS,large
+18403,FPT Telecom Company,large
+18465,"Workday, Inc.",large
+18568,Bidtellect Inc.,large
+18705,BlackBerry Limited,large
+19189,Pulsepoint Inc,large
+19224,"Quantum Services Group, LLC.",large
+19250,"John Wiley & Sons, Inc.",large
+19317,"Bluesky Social, PBC",large
+19318,"Interserver, Inc",large
+19373,Triara.com S.A. de C.V.,large
+19437,SECURED SERVERS LLC,large
+19551,Incapsula Inc,large
+19557,CHANGEIP COM,large
+19574,Corporation Service Company,large
+19648,Corporation of the Presiding Bishop of the Church of ...,large
+19679,"Dropbox, Inc.",large
+19780,"Intermedia.net, Inc.",large
+19871,"Network Solutions, LLC",large
+19905,"Vercara, LLC",large
+19994,Rackspace Hosting,large
+20044,S/A ESTADO DE MINAS,large
+20116,CAIXA ECONOMICA FEDERAL,large
+20141,"Quality Technology Services, LLC",large
+20258,"Analog Devices, Inc.",large
+20473,"The Constant Company, LLC",large
+20546,SOPRADO GmbH,large
+20596,Future Publishing Ltd,large
+20633,Johann Wolfgang Goethe-Universitat Frankfurt am Main,large
+20675,BOURSORAMA S.A.,large
+20705,HSBC Bank plc,large
+20740,Messe Frankfurt GmbH,large
+20746,Telecom Italia S.p.A.,large
+20756,NAMESHIELD SAS,large
+20764,CJSC RASCOM,large
+20857,TransIP B.V. (team.blue NL),large
+20860,IOMART CLOUD SERVICES LIMITED,large
+20940,Akamai International B.V.,large
+21051,ASTRUM LLC,large
+21192,dpa Deutsche Presse Agentur GmbH,large
+21245,MEDIANOVA INTERNET HIZMETLERI VE TICARET ANONIM SIRKETI,large
+21276,Expert Solutions Georgia LLC,large
+21341,Soroush Rasanheh Company Ltd,large
+21777,"Massive Networks, Inc.",large
+21785,"Red Hat, Inc.",large
+21840,WiredISP Inc.,large
+21859,Zenlayer Inc,large
+22024,"Splunk, Inc.",large
+22063,J. Paul Getty Trust,large
+22244,Motorola Mobility LLC,large
+22252,The City of New York,large
+22284,U.S. Department of the Interior,large
+22390,XEROX CORPORATION,large
+22414,"Craigslist, Inc.",large
+22427,GNET INC.,large
+22548,Núcleo de Informação e Coordenação do Ponto BR - NIC.BR,large
+22604,Disney Streaming Services,large
+22611,"InMotion Hosting, Inc.",large
+22612,"Namecheap, Inc.",large
+22652,Videotron Ltee,large
+22697,Roblox,large
+22773,Cox Communications Inc.,large
+22834,Boston College,large
+22989,"Free Software Foundation, Inc.",large
+23005,"SWITCH, LTD",large
+23028,Team Cymru Inc.,large
+23140,Universidad de Chile,large
+23162,University of Kentucky,large
+23237,McMaster University,large
+23352,DEFT.COM,large
+23393,NuCDN LLC,large
+23576,NAVER Cloud Corp.,large
+23616,"Hitachi Systems, Ltd.",large
+23693,PT. Telekomunikasi Selular,large
+23724,China Telecom Beijing IDC Network,large
+23816,LY Corporation,large
+23820,"Rakuten Group, Inc.",large
+23910,China Next Generation Internet CERNET2,large
+24151,China Internet Network Infomation Center,large
+24211,PT Detik Ini Juga,large
+24247,PacketFabric (Hong Kong) Limited,large
+24282,KAGOYA JAPAN Inc.,large
+24400,"Shanghai Mobile Communications Co.,Ltd.",large
+24429,Alibaba Cloud,large
+24436,University of Queensland,large
+24462,Network Management Section,large
+24482,SG.GS,large
+24547,Hebei Mobile Communication Company Limited,large
+24572,Yahoo Japan,large
+24586,Intermax Group B.V.,large
+24600,Orange S.A.,large
+24611,Datacenter Luxembourg S.A.,large
+24638,Rambler Internet Holding LLC,large
+24641,FASTER CZ spol. s r.o.,large
+24690,Szerencsejatek Zrt,large
+24723,Atman Sp. z o.o.,large
+24768,"AlmourolTec, Lda",large
+24823,VTB Bank (Public Joint-Stock Company),large
+24843,France Televisions SA,large
+24913,Bank Saint Petersburg PJSC,large
+24940,Hetzner Online GmbH,large
+24955,JSC Ufanet,large
+24961,WIIT AG (fka. myLoc Managed IT AG),large
+24971,MasterDC s.r.o.,large
+25106,Mobile TeleSystems JLLC,large
+25159,PJSC MegaFon,large
+25192,"CZ.NIC, z.s.p.o.",large
+25248,RADIOKOMUNIKACE a.s.,large
+25285,Boletin Oficial del Estado,large
+25291,SysEleven GmbH,large
+25394,MK Netzdienste Verwaltungs GmbH trading as MK Netzdie...,large
+25506,Telewizja Polska S.A.,large
+25532,LLC MASTERHOST,large
+25697,UpCloud USA Inc,large
+25751,"Conversant, Inc.",large
+25773,RADWARE INC.,large
+25829,Smithsonian Institution,large
+26042,"FiberState, LLC",large
+26046,Utah State University,large
+26101,Yahoo Holdings Inc.,large
+26210,AXS Bolivia S. A.,large
+26218,EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV,large
+26342,"Deloitte Touche Tohmatsu Services, Inc.",large
+26347,"New Dream Network, LLC",large
+26380,MasterCard Technologies LLC,large
+26496,"GoDaddy.com, LLC",large
+26529,Hilton Worldwide Holdings Inc,large
+26662,XEROX CORPORATION,large
+26666,"Interserver, Inc",large
+26762,"Conversant, LLC",large
+26787,Northwestern Mutual Life Insurance Company,large
+26810,U.S. Dept. of Health and Human Services,large
+27011,XM Satellite Radio,large
+27257,Webair Internet Development Company Inc.,large
+27357,Rackspace Hosting,large
+27365,"Cengage Learning, Inc.",large
+27385,"QUALYS, Inc.",large
+27589,MOJOHOST,large
+27632,Tractor Supply Company,large
+27647,"Weebly, Inc.",large
+27715,Locaweb Serviços de Internet S/A,large
+27790,Universidad Nacional de Cordoba,large
+28089,BANCO CENTRAL DE VENEZUELA,large
+28571,UNIVERSIDADE DE SAO PAULO,large
+28573,Claro NXT Telecomunicacoes Ltda,large
+28604,Globo Comunicação e Participaçoes SA,large
+28637,Cia Proc. de Dados do Estado de S Paulo - Prodesp,large
+28753,Leaseweb Deutschland GmbH,large
+28785,Asseco Cloud Sp. z o. o.,large
+28812,PJSC Bashinformsvyaz,large
+28839,United Nations Office at Vienna,large
+28855,Octopuce s.a.r.l.,large
+29003,"IP TELECOM, SERVICOS DE TELECOMUNICACOES S.A.",large
+29066,velia.net Internetdienste GmbH,large
+29097,Hostpoint AG,large
+29169,GANDI SAS,large
+29182,JSC IOT,large
+29222,Infomaniak Network SA,large
+29226,MasterTel,large
+29278,Rackhost Zrt.,large
+29298,SUSE Software Solutions Germany GmbH,large
+29447,Iliad Italia S.p.A,large
+29550,Team Blue Carrier Limited,large
+29561,JSC Firma Center Vnedreniya Protek,large
+29670,Individual Network Berlin (IN-Berlin) e.V.,large
+29691,Nine Internet Solutions AG,large
+29702,"Alaska Airlines, Inc.",large
+29758,"Samba TV, Inc.",large
+29789,"Reflected Networks, Inc.",large
+29802,"HIVELOCITY, Inc.",large
+29816,Southwest Airlines Co.,large
+29873,"Newfold Digital, Inc.",large
+29988,Rogers Communications Canada Inc.,large
+29990,Xandr Inc.,large
+29992,U.S. Department of Veterans Affairs,large
+30060,Verisign Anycast US 2J,large
+30083,velia.net,large
+30148,Sucuri,large
+30193,Los Angeles Unified School District,large
+30217,Desync Networks,large
+30313,Internal Revenue Service,large
+30320,"Kia America, Inc.",large
+30383,General Motors LLC,large
+30447,Internet Names For Business Inc.,large
+30633,LeaseWeb USA / WDC-01,large
+30641,STATE OF DELAWARE,large
+30811,Optimizely AB,large
+30860,Virtual Systems LLC,large
+30931,IG Index Ltd.,large
+30983,Moroccan Academic & Research WAN,large
+31004,Schweizerische Bundesbahnen SBB,large
+31034,Aruba S.p.A.,large
+31042,Serbia BroadBand-Srpske Kablovske mreze d.o.o.,large
+31080,Wirtualna Polska Media S.A.,large
+31083,Telepoint Ltd,large
+31133,MegaFon PJSC,large
+31151,PERFORMANCE HORIZON GROUP LIMITED,large
+31174,AO RAIFFEISENBANK,large
+31200,Novotelecom Ltd,large
+31483,JSC ER-Telecom Holding,large
+31621,Allegro sp. z o.o.,large
+31715,CloudIP LLC,large
+31727,Node4 Limited,large
+31747,"BlackRock Financial Management, Inc.",large
+31822,City University of New York,large
+31898,Oracle Cloud,large
+31937,Vision Service Plan,large
+32181,GigeNET,large
+32244,"Liquid Web, L.L.C",large
+32338,Hostiserver Ltd,large
+32354,Unwired,large
+32368,mouser electronics,large
+32472,RELX inc.,large
+32475,Internap Holding LLC,large
+32489,Amanah Tech Inc.,large
+32577,The Kroger Co.,large
+32934,"Facebook, Inc.",large
+32982,U.S. Department of Energy,large
+33070,Rackspace Hosting,large
+33083,AxcelX Technologies LLC,large
+33091,University of Calgary,large
+33191,"Notion Labs, Inc.",large
+33198,"Qualcomm, Inc.",large
+33442,Zebra Technologies Corporation,large
+33522,"cPanel, LLC.",large
+33738,United States Holocaust Memorial Museum,large
+33764,African Network Information Center - ( AfriNIC Ltd. ),large
+33837,Fredrik Holmqvist,large
+33905,Akamai International B.V.,large
+34011,Host Europe GmbH,large
+34086,T-Systems International GmbH,large
+34156,DB Systel GmbH (German Railway),large
+34177,Celeste SAS,large
+34285,Sociedad Andaluza para el Desarrollo de las Telecomun...,large
+34309,Link11 GmbH,large
+34343,Eweka Internet Services B.V.,large
+34624,Megaspace Internet Services GmbH,large
+34655,JWE S.a r.l.,large
+34762,Combell NV,large
+34788,Neue Medien Muennich GmbH,large
+34798,willhaben internet service GmbH & Co KG,large
+34878,Karlsruhe Institute of Technology,large
+34879,OOO Sovremennye setevye tekhnologii,large
+34959,KVIKTEL LLC,large
+34984,Superonline Iletisim Hizmetleri A.S.,large
+34993,CYLLENE ITS SAS,large
+35028,Unity Technologies ApS,large
+35039,SAP SE,large
+35179,Korbank S. A.,large
+35237,Sberbank of Russia PJSC,large
+35278,SPRINTHOST.RU LLC,large
+35280,F5 Networks SARL,large
+35285,Institute for Research in Fundamental Sciences,large
+35293,E-CARD LTD.,large
+35338,Ministry of Interior,large
+35415,Webzilla B.V.,large
+35673,JSC Kaspi Bank,large
+35676,La Poste S.A.,large
+35704,ITZBund,large
+35739,Bayerischer Rundfunk,large
+35916,MULTACOM CORPORATION,large
+36154,THE WESTERN UNION COMPANY,large
+36323,Ezri Inc,large
+36351,IBM Cloud,large
+36459,"GitHub, Inc.",large
+36646,Yahoo Holdings Inc.,large
+36647,Yahoo Holdings Inc.,large
+36692,"Cisco OpenDNS, LLC",large
+36850,University of North Carolina at Chapel Hill,large
+36947,Telecom Algeria,large
+37061,Safaricom Limited,large
+37936,Sina,large
+37963,"Hangzhou Alibaba Advertising Co.,Ltd.",large
+38099,Kakao Corp,large
+38244,VNG Corporation,large
+38283,CHINANET SiChuan Telecom Internet Data Center,large
+38365,"Beijing Baidu Netcom Science and Technology Co., Ltd.",large
+38532,Exabytes Network (Singapore) Pte. Ltd.,large
+38631,LY Corporation,large
+38700,SMILESERV,large
+38731,Viettel - CHT Company Ltd,large
+38952,"MAFRA, a.s.",large
+39029,Redpill Linpro AS,large
+39122,Blacknight Internet Solutions Limited,large
+39134,EDINAYA SET LIMITED LIABILITY COMPANY,large
+39218,Burda Digital Systems GmbH,large
+39287,Materialism s.r.l.,large
+39351,31173 Services AB,large
+39392,SH.cz s.r.o.,large
+39415,PJSC Moscow city telephone network,large
+39551,Centre de Telecomunicacions i Tecnologies de la Infor...,large
+39570,Loopia AB,large
+39572,DataWeb Global Group B.V.,large
+39605,Iguane Solutions SAS,large
+39684,OOO Mango Telecom,large
+39729,REGISTER S.P.A.,large
+39731,Axis Communications AB,large
+39787,TV 2 AS,large
+39832,Opera Norway AS,large
+39960,Barnes & Noble Inc.,large
+40009,"BitGravity, Inc.",large
+40026,DICKS SPORTING GOODS INC,large
+40027,Netflix Streaming Services Inc.,large
+40034,Confluence Networks Inc,large
+40401,Backblaze Inc,large
+40428,"Pandora Media, LLC",large
+40444,"Constant Contact, Inc",large
+40509,"Fly.io, Inc.",large
+40675,"PROQUEST, LLC",large
+40824,Webzilla Inc.,large
+40913,"Quality Technology Services, LLC",large
+40934,Fortinet Inc.,large
+41064,Telefun SAS,large
+41079,Cyber_Folks S.A.,large
+41231,Canonical Group Limited,large
+41417,TURKIYE JOKEY KULUBU DERNEGI AT YETISTIRICILIGI VE YA...,large
+41468,INFOR IT SP. z o.o.,large
+41615,JSC Russian Agricultural Bank,large
+41628,Alter Way SAS,large
+41653,Aqua Ray SAS,large
+41690,Dailymotion S.A.,large
+41706,PJSC NK Rosneft,large
+41722,Miran Ltd.,large
+41887,Prolocation B.V.,large
+42044,CentralNic Ltd,large
+42216,Yasar Sen trading as Alapli Teknoloji,large
+42223,LLC MARS,large
+42244,eServer s.r.o.,large
+42371,MAGEX Solutions Kft.,large
+42532,SIA VEESP,large
+42567,MOJOHOST B.V.,large
+42612,DinaHosting S.L.,large
+42632,MnogoByte LLC,large
+42649,Baffin Bay Networks AB,large
+42652,inexio Informationstechnologie und Telekommunikation Gmbh,large
+42656,Allegro sp. z o.o.,large
+42708,Glesys AB,large
+42807,CIZGI TELEKOMUNIKASYON ANONIM SIRKETI,large
+42848,European Commission,large
+43037,"Seznam.cz, a.s.",large
+43066,Information und Technik Nordrhein-Westfalen,large
+43081,World News PTE. LTD,large
+43091,Efigence S.A.,large
+43193,Bayerisches Landesamt fuer Steuern,large
+43226,Data Storage Center JSC,large
+43247,YooMoney NBCO LLC,large
+43298,Storm Networks LLC,large
+43311,CCM Benchmark Group SAS,large
+43317,SIA VEESP,large
+43350,NForce Entertainment B.V.,large
+43354,ZDF Zweites Deutsches Fernsehen,large
+43362,Hosting Ltd,large
+43391,NETDIREKT BILISIM DANISMANLIK ILETISIM HIZMETLERI SAN...,large
+43399,TBANK JSC,large
+43513,Sia Nano IT,large
+43541,VSHosting s.r.o.,large
+43614,Economia a.s.,large
+43727,JSC KVANT-TELEKOM,large
+43740,Secure Telecommunication LLC,large
+43797,The Federal Guard Service of the Russian Federation,large
+43896,EVO CLOUD LLC,large
+44014,OOO NPO VMI,large
+44051,Fornex Hosting S.L.,large
+44066,firstcolo GmbH,large
+44112,SpaceWeb Ltd,large
+44128,Internet-Pro LLC,large
+44239,proinity GmbH,large
+44310,INTERNET TECHNOLOGIES LLC,large
+44386,LLC Internet Solutions,large
+44444,Forcepoint UK Limited,large
+44521,Jagex Limited,large
+44615,"PRO PLUS, d.o.o.",large
+44704,Perekrestok-2000 LLC,large
+44716,D-hosting die Rackspace & Connectivity GmbH,large
+44788,Criteo Technology SAS,large
+44865,STANDARD Verlagsgesellschaft m.b.H.,large
+44925,1984 ehf,large
+44932,Fannavaran-e Idea Pardaz-e Saba PJSC,large
+44968,IPROM d.o.o,large
+44998,GOBIERNO DE CANARIAS,large
+45061,"Shanghai Information Network Co.,Ltd.",large
+45062,NetEase,large
+45090,Tencent Cloud,large
+45102,"Alibaba (US) Technology Co., Ltd.",large
+45474,Nexusguard Pte. Ltd.,large
+45530,Agoda Company Pte. Ltd.,large
+45544,SUPERDATA-VN,large
+45596,Centre For Railway Information Systems,large
+45638,SYNERGY WHOLESALE PTY LTD,large
+45644,IT-Networking Department,large
+45708,Pemerintah Kota Surabaya,large
+45894,FPT Online JSC,large
+45899,VNPT Corp,large
+45903,CMC Telecom Infrastructure Company,large
+45974,NHNCLOUD,large
+46015,Exa Bytes Network Sdn.Bhd.,large
+46375,Sonic Telecom LLC,large
+46469,GETRESPONSE,large
+46475,"Limestone Networks, Inc.",large
+46562,Performive LLC,large
+46606,Unified Layer,large
+46617,"WebMD, LLC",large
+46636,NatCoWeb Corp.,large
+46652,"DigitalOcean, LLC",large
+46844,Sharktech,large
+46928,Academy Sports + Outdoors,large
+47381,Servergarden Kft.,large
+47388,Dante International SA,large
+47481,Lime HD LLC,large
+47524,Turksat Uydu Haberlesme Kablo TV ve Isletme A.S.,large
+47541,LLC VK,large
+47544,IQ PL Sp. z o.o.,large
+47577,Pravilnyy khosting Ltd,large
+47583,Hostinger International Limited,large
+47586,Dmitriy V. Kozmenko,large
+47610,RWTH Aachen University,large
+47724,Limited Liability Company HeadHunter,large
+47764,LLC VK (Mail.ru),large
+47768,UK Intis Telecom LTD,large
+47846,SEDO GmbH,large
+47917,RTV Slovenija,large
+47948,24sata doo,large
+47952,ICT BULUT BILISIM A.S.,large
+47957,Worldline IGSA SA,large
+48018,Fornex Hosting S.L.,large
+48061,Limited Liability Company GPM Digital Technologies,large
+48096,Enterprise Cloud Ltd.,large
+48158,DigitalOne AG,large
+48282,Hosting technology LTD,large
+48287,JSC RU-CENTER,large
+48324,webgo GmbH,large
+48347,JSC Mediasoft ekspert,large
+48399,Svyaz VSD LLC,large
+48447,Sectigo Limited,large
+48579,ELASTX AB,large
+48635,CLDIN B.V.,large
+48716,PS Internet Company LLP,large
+48851,Radware Ltd,large
+48854,team.blue Denmark (Zitcom),large
+48894,Optimus IT d.o.o.,large
+49002,JSC Russian Post,large
+49063,Data Storage Center JSC,large
+49127,Asimo Networks B.V.,large
+49179,Tendence LLC,large
+49186,Federal State Institution Research and Development In...,large
+49372,w1n ltd,large
+49434,FBW NETWORKS SAS,large
+49453,Global Layer B.V.,large
+49505,JSC Selectel,large
+49675,SKB Kontur Production JSC,large
+49699,SuperHosting.BG Ltd.,large
+49981,WorldStream B.V.,large
+50090,D ELEKTRONIK SANS OYUNLARI VE YAYINCILIK A.S.,large
+50098,Melbikomas UAB,large
+50198,SHOP APOTHEKE SERVICE GmbH,large
+50214,QWARTA LLC,large
+50245,Serverel Inc.,large
+50313,TESLATEL LLC,large
+50335,PANDA SECURITY S.L.,large
+50340,Selectel - Moscow,large
+50472,Chaos Computer Club e.V.,large
+50482,JSC Kazakhtelecom,large
+50613,Advania Ísland ehf (ThorDC),large
+50638,Zaklad Ubezpieczen Spolecznych,large
+50673,Serverius Holding B.V.,large
+50881,"ESET, spol. s r.o.",large
+51013,WebSupport s.r.o.,large
+51115,HLL LLC,large
+51154,pCloud AG,large
+51219,K2 Integration JSC,large
+51269,HEXATOM s.a.r.l.,large
+51468,One.com A/S,large
+51527,Hyundai AutoEver Europe GmbH,large
+51577,Styria IT Solutions d.o.o.,large
+51586,ServerZone s.r.o.,large
+51713,WHG Hosting Services Ltd,large
+51722,PIXOOF TEKNOLOJI ANONIM SIRKETI,large
+51852,Private Layer INC,large
+51859,Mainstream doo Beograd,large
+51870,La Francaise des Jeux,large
+51894,SIA Mikrotīkls / MikroTik,large
+52007,LLC AdRiver,large
+52016,JSC ADFACT,large
+52030,Server Plan S.r.l.,large
+52130,Livesport s.r.o.,large
+52580,Azion Technologies Ltda.,large
+52649,Tribunal de Justica do Estado do Rio Grande do Sul,large
+52890,Centro Integrado de Telemática do Exército,large
+53332,"C2Hosting, LLC",large
+53334,"Total Uptime Technologies, LLC",large
+53589,PlanetHoster,large
+53667,FranTech Solutions,large
+53736,Nutanix,large
+53831,"Squarespace, Inc.",large
+54004,Cablevision Lightpath LLC,large
+54113,"Fastly, Inc.",large
+54288,"SolidTools Technology, Inc.",large
+54290,Hostwinds LLC.,large
+54455,MadeIT inc.,large
+54489,"CoreSpace, Inc.",large
+54641,"InMotion Hosting, Inc.",large
+54885,State of Idaho,large
+54994,Meteverse Limited,large
+55219,"Cisco Systems, Inc.",large
+55293,"A2 Hosting, Inc.",large
+55374,FUJITSU LIMITED,large
+55470,Cyfuture India Pvt. Ltd.,large
+55532,Squiz Pty Ltd,large
+55705,"I World Tower, DLF CITY",large
+55741,West Bengal Electronics Industry Development,large
+55824,NKN Core Network,large
+55836,Reliance Jio Infocomm Limited,large
+55951,Lembaga Hasil Dalam Negeri Malaysia,large
+55960,Amazon Web Services Beijing (Beijing Sinnet),large
+55990,Huawei Cloud Service data center,large
+55992,Beijing Qihu Technology Company Limited,large
+56041,China Mobile Group Zhejiang Company,large
+56046,China Mobile Jiangsu Province Network,large
+56048,China Mobile Group Beijing Company,large
+56201,"Zoho Corporation Pvt. Ltd, AS56581,GBU Centre of Information Technologies of Amur Region",large
+56655,Gigahost AS,large
+56694,LLC Smart Ape,large
+56898,Private Host BV,large
+57046,Resource Information Center of the Udmurt Republic,large
+57073,LLC Wildberries,large
+57352,Rossiya Segodnya,large
+57363,CDNvideo LLC,large
+57503,OOO Taxtelecom,large
+57629,LLC IVI.RU,large
+57724,DDOS-GUARD LTD,large
+57788,Ringier Slovakia Media s.r.o.,large
+57811,Redge Technologies sp. z o.o.,large
+57910,"Soluciones Corporativas IP, SL",large
+57918,ACOD JSC,large
+58010,uvensys GmbH,large
+58061,Scalaxy B.V.,large
+58135,AO Kaluga Astral,large
+58182,Wix.com Ltd.,large
+58461,China Telecom Hangzhou IDC Network,large
+58466,CHINANET Guangdong province network,large
+58476,Direktorat Jenderal Pajak,large
+58521,Garena Online Pte Ltd,large
+58540,China Telecom Shandong Province Jinan IDC Network,large
+58542,China Telecom Tianjin Province IDC Network,large
+58593,Microsoft Azure China (Shanghai Blue Cloud),large
+59019,"Beijing Kingsoft Cloud Internet Technology Co., Ltd",large
+59132,Bank Indonesia,large
+59188,IndianOil Corporation Limited,large
+59238,"Innovative Extremist Co., Ltd.",large
+59253,Leaseweb Singapore Pte. Ltd.,large
+59507,terralink networks GmbH,large
+59627,Docker LTD,large
+59692,IQWeb FZ-LLC,large
+59835,EFG Sweden AB,large
+59939,WIBO Baltic UAB,large
+60068,Datacamp Limited (CDN77 / DataPacket),large
+60175,Wortmann AG,large
+60229,Demonware Limited,large
+60330,Belarusian Cloud Technologies LLC,large
+60362,alwaysdata SARL,large
+60404,The Infrastructure Group B.V.,large
+60458,XNET CORE SL,large
+60527,"Xsolla (USA), Inc",large
+60580,PROFI.RU LLC,large
+60664,x-ion GmbH,large
+60684,Managing company Realty of Petersburg Ltd,large
+60772,Sky Italia srl,large
+60781,LeaseWeb Netherlands B.V.,large
+60813,Banco de Sabadell SA,large
+60885,Zengenti Ltd.,large
+61157,PlusServer GmbH,large
+61168,Planet Service SARL,large
+61293,JSC 1C GROUP,large
+61306,LLC LitRes,large
+61317,Hivelocity LLC,large
+61400,Start2 LLC,large
+61866,INTELBRAS S.A. INDUSTRIA DE TELECOMUNICACAO ELETRO,large
+61969,Team Internet AG,large
+62041,Telegram Messenger - Europe,large
+62371,Proton AG,large
+62416,"SAMPLING LINE-SERVICOS E INTERNET, LDA",large
+62712,State of Hawaii,large
+62744,Quintex Alliance Consulting,large
+62804,"PhotoShelter, Inc.",large
+62856,"Docusign, Inc",large
+63023,GTHost,large
+63139,BEDGE CO LIMITED,large
+63210,FC2 Inc,large
+63362,Smule Inc.,large
+63410,PrivateSystems Networks,large
+63648,"Beijing Xiaoju Science and Technology Co., Ltd.",large
+63826,"Ministry of Planning, Planning Commission Chatter",large
+63835,China Telecom Changsha IDC Network,large
+63949,Akamai (Linode),large
+64258,GROUPE TECHNOLOGIES DESJARDINS INC.,large
+131144,ASUSTek COMPUTER INC.,large
+131363,Department of Information Technology - General Depart...,large
+131392,GMO-Z.com Runsystem Joint Stock Company,large
+131429,MOBIFONE Corporation,large
+131435,Vietnam Esports and Entertainment Joint Stock Company,large
+131623,SHOPEE (TAIWAN) CO. LTD.,large
+131663,GIGABYTE,large
+131693,Kementerian Agama (KEMENAG),large
+131930,"Tokyo Broadcasting System Television, Inc.",large
+131942,"Gurunavi, Inc.",large
+131965,Xserver Inc.,large
+132043,Directorate Of IT Maharashtra,large
+132203,Tencent,large
+132420,"282, Sector 19",large
+132520,MahaOnline Limited,large
+132557,Sbi Cards And Payment Services Limited,large
+132634,Direktorat e-Government,large
+133037,KERALA STATE IT MISSION,large
+133231,Goods And Services Tax Network,large
+133260,Gujarat Informatics Limited,large
+133274,MPOnline Ltd,large
+133618,Trellian Pty. Limited,large
+133826,Direktorat Jenderal Pendidikan Tinggi,large
+133865,"Beijing IQIYI Science & Technology Co., Ltd.",large
+134029,Unique Identification Authority of India,large
+134351,Leaseweb Japan K.K.,large
+134543,China Unicom Guangdong IP network,large
+134756,CHINANET Nanjing Jishan IDC network,large
+134763,CHINANET Guangdong province network,large
+134771,China Telecom Wenzhou IDC Network,large
+134774,CHINANET Guangdong province Shenzhen MAN network,large
+135354,NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.,large
+135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,large
+135402,Wired ISP Inc.,large
+135629,Amazon Web Service Ningxia (NWCD),large
+135905,Vietnam P&T,large
+135967,Bach Kim Network solutions Join stock company,large
+136111,Kementerian Sosial Republik Indonesia,large
+136133,SQUIXA PTY LIMITED,large
+136258,"BrainStorm Network, Inc",large
+136291,Madhya Pradesh State Electronics Development Corporat...,large
+136659,"Itec Department, Government Of Telangana",large
+136907,Huawei Cloud,large
+136958,China Unicom Guangdong IDC Network,large
+137235,Wired ISP Inc.,large
+137409,GSL Networks Pty LTD,large
+137517,FLAMEHOSTING INC,large
+137661,Rajcomp Info Services Ltd.,large
+137671,"ITE&C DEPARTMENT, GOVERNMENT OF A.P.",large
+137702,China Telecom Nanjing IDC Network,large
+137718,"Beijing Volcano Engine Technology Co., Ltd.",large
+137801,"AIPO Cloud (Guizhou) Technology Co., Ltd.",large
+138007,LENOVO (AUSTRALIA & NEW ZEALAND) PTY LIMITED,large
+138341,Shopee Singapore Pte. Ltd.,large
+138727,Center For E-governance,large
+138950,China Telecom Wuxi IDC Network,large
+139057,Legend Dynasty Pte. Ltd.,large
+139341,WeChat/QQ CDN,large
+139659,LUCIDACLOUD LIMITED,large
+140227,"Hong Kong Communications International Co., Limited",large
+140633,BILIBILI HK LIMITED,large
+140637,Macquarie Technology Operations Pty Limited,large
+140766,FPT Smart Cloud Company Limited,large
+141477,Indira Gandhi National Open University,large
+141679,China Telecom Beijing Tianjin Hebei Big Data Industry...,large
+141995,Contabo Asia Private Limited,large
+142160,Joyo Technology Pte. Ltd.,large
+146943,Tier 4 Cloud Services,large
+147303,ColoCone,large
+150436,Byteplus Pte. Ltd.,large
+151917,Jupiter Media Joint Stock Company,large
+152199,Kakao Corp,large
+153561,PITC,large
+196695,NetOne Rus JSC,large
+197248,Dravanet Co Ltd.,large
+197311,LLC YUGTELSET,large
+197431,GEMIUS SA,large
+197482,DoubleGIS LLC,large
+197695,"Domain names registrar REG.RU, Ltd",large
+197876,ICM Netsystems 2005 SL,large
+198226,JSC Publishing House Komsomolskaya Pravda,large
+198566,MAMUT RAHAL SOFTWARE - FZCO,large
+198605,AVAST Software s.r.o.,large
+198610,Beget LLC,large
+198622,Adform A/S,large
+198696,EURO-NET Sp. z o.o.,large
+198913,conet Deutschland GmbH,large
+198949,Radware,large
+199148,Ministry of Health of Russian Federation,large
+199178,Micro Systems Marc Balmer,large
+199524,Gcore S.A.,large
+199599,"Telecom-Birzha, LLC",large
+199993,Associacao DNS.PT,large
+200000,Hosting Ukraine LTD,large
+200015,Omnichannel technologies LLC,large
+200019,ALEXHOST SRL,large
+200107,Kaspersky Lab Switzerland GmbH,large
+200109,Zurkuhl GmbH,large
+200195,"Verasel, Inc.",large
+200325,Bunny.net,large
+200350,Yandex.Cloud LLC,large
+200514,KnownSRV Ltd.,large
+200521,Ministerio de Transformacion Digital y de la Funcion ...,large
+200651,FlokiNET ehf,large
+200777,Deutsche Welle Anstalt des Oeffentlichen Rechts,large
+200784,MY.GAMES B.V.,large
+201012,KEH eCommerce LLC,large
+201085,ANTEMETA SAS,large
+201178,Euronet Telekomunikasyon A.S.,large
+201200,SuperHosting.BG Ltd.,large
+201589,EDGEAM LLC,large
+201706,SERVICEPIPE LLC,large
+201773,University of Warwick,large
+201814,MEVSPACE sp. z o.o.,large
+202042,Skroutz Internet Services S.A.,large
+202095,RCS MediaGroup S.p.a.,large
+202425,IP Volume inc,large
+202492,SILVERHILL GROUP HOLDING LTD,large
+202614,Kinescope B.V.,large
+202655,Ministry of Education (MOE),large
+202824,AO ATS,large
+202865,Dicastero per la Comunicazione,large
+203055,Datacenter Luxembourg S.A.,large
+204198,NCO MONETA (LLC),large
+204213,Netmihan Communication Company Ltd,large
+204343,Compubyte Limited,large
+204601,NovoServe B.V.,large
+204643,El Corte Ingles S.A.,large
+204706,JSC Kolesa,large
+204878,OOO Sovremennye setevye tekhnologii,large
+204995,RTB Marketing and Tech Services Ltd,large
+205090,FIRST SERVER LIMITED,large
+205111,ZOHO Corporation B.V,large
+205186,MetaQuotes Ltd,large
+205272,Musarubra Germany GmbH,large
+205275,ROMARG SRL,large
+205282,TILDA PLATFORM CLOUD SERVICES CO. L.L.C,large
+205312,OOO Sovremennye setevye tekhnologii,large
+205373,Rightmove Group Limited,large
+205411,WIIT AG,large
+205461,Pole emploi,large
+205544,Leaseweb UK Limited,large
+205585,Arvan Cloud CDN,large
+205820,Unitary enterprise A1,large
+206170,Yelles AB,large
+206238,Freedom Internet BV,large
+206281,Stichting DIGI NL,large
+206873,GalaxyStar LLC,large
+206955,EVOTOR LLC,large
+206980,AntiDDoS Solutions LLC,large
+207027,LLC Eximius,large
+207104,BiZone LLC,large
+207304,Y. Izdeu men Jarnama LLP,large
+207333,LLP Kompaniya Hoster.KZ,large
+207560,Zubritska Valeriia Nikolaevna,large
+207592,Gesellschaft fuer wissenschaftliche Datenverarbeitung...,large
+207697,Immobiliare.it S.p.A.,large
+207728,EUROHOSTER Ltd.,large
+208398,Edge Technology Plus (Yandex),large
+208677,Cloud Technologies LLC trading as Cloud.ru,large
+208681,Idealo Internet GmbH,large
+208981,Data Center LLC,large
+209030,Kaspersky Lab AO,large
+209150,TH.PAPAMICHAIL VAINAS - G.PSALTAKIS G.P,large
+209242,Cloudflare BYOIP Customers,large
+209510,NAMESHIELD SAS,large
+209622,uPress Inc,large
+209626,Enflow B.V.,large
+209671,Qrator Labs CZ s.r.o.,large
+209684,Action-digital LLC,large
+209847,WorkTitans B.V.,large
+210079,EuroByte LLC,large
+210275,Saudi Information Technology Company CJSC,large
+210403,Groupe LWS SARL,large
+210756,EdgeCenter LLC,large
+210879,Sparteo SAS,large
+211143,Azerlotereya Open Joint Stock Company,large
+211201,SANS DIJITAL VE INTERAKTIF HIZMETLER TEKNOLOJI YATIRI...,large
+211443,SINO WORLDWIDE TRADING LIMITED,large
+211609,OKKO LLC,large
+212066,Yandex Turkey,large
+212098,Jeroen van Brink trading as Infrapod,large
+212216,Netafraz Iranian Ltd.,large
+212238,Datacamp Limited,large
+212531,UAB Interneto vizija,large
+212792,Blinkov Egor Igorevich,large
+213230,Hetzner Cloud - Ashburn,large
+213306,Comtrade System Integration doo Belgrade Serbia,large
+213373,IP Connect Inc,large
+213980,Net Media Zrt.,large
+214036,"Ultahost, Inc.",large
+214390,"Wojtek SASU, trading as Gofile",large
+215467,Skhron OU,large
+216154,CLODO CLOUD SERVICE CO. L.L.C,large
+262178,Pontificia Universidad Catolica Madre y Maestra (PUCMM),large
+264468,Conselho Nacional de Justiça,large
+266031,PRESIDÊNCIA DA REPÚBLICA,large
+269346,Secretaria de Estado de Desenvolvimento e Inovacao,large
+271354,UNIVERSIDADE FEDERAL DE MINAS GERAIS,large
+328014,Rwanda Internet Exchange Point (RINEX) c/o RICTA,large
+328174,HomeFind24 (Pty) Ltd t/a Property24,large
+393360,"Tyler Technologies, Inc.",large
+393457,Hamilton Community Enterprises,large
+393471,"FOS Hosting, LLC",large
+393942,WiredISP Inc.,large
+393952,Service Alberta,large
+394396,Listrak,large
+394572,"Tyler Technologies, Inc.",large
+394714,Data Recognition Corporation,large
+395366,"McKinsey & Company, Inc.",large
+395409,Neocities,large
+395609,Capital One Financial Corporation,large
+395717,"Wasabi Technologies, Inc.",large
+395954,"Leaseweb USA, Inc.",large
+396173,Southwest Airlines Co.,large
+396253,"iboss,inc",large
+396356,Latitude.sh,large
+396367,"Canadian Tire Corporation, LTD",large
+396982,Google Cloud Platform,large
+396986,"Bytedance, Inc. (TikTok)",large
+397273,Render,large
+397423,Tier.Net Technologies LLC,large
+397497,"Paycom Payroll, LLC",large
+398019,Dynu Systems Incorporated,large
+398101,"GoDaddy.com, LLC",large
+398743,The Nemours Foundation,large
+399358,"Anthropic, PBC",large
+399482,"Blurb, Inc.",large
+399522,"The Producers, Inc.",large
+399566,Bigcommerce Inc.,large
+399668,e-planning,large
+400754,"GoDaddy.com, LLC",large
+401044,BlueType LLC,large
+401645,Softoria LLC,large
+42,"WoodyNet, Inc.",large
+187,DNScast,large
+378,IUCC - Israel InterUniversity Computation Center,large
+721,United States Department of Defense (DoD),large
+1120,ACONET,large
+1508,U.S. Army Research Lab - H-root,large
+1797,Uruguay,large
+1850,Internet á Íslandi hf,large
+1921,ipcom GmbH,large
+1955,KIFU (Governmental Info Tech Development Agency),large
+2107,ARNES,large
+2116,GLOBALCONNECT AS,large
+2149,Cogent - C-root,large
+2484,AFNIC (Association Francaise pour le Nommage Internet...,large
+2486,AFNIC (Association Francaise pour le Nommage Internet...,large
+2500,WIDE Project,large
+2515,Japan Network Information Center,large
+2561,Egyptian Universities Network (EUN),large
+2597,Consiglio Nazionale delle Ricerche,large
+2602,Fondation RESTENA,large
+2603,NORDUnet,large
+2609,Tunisia BackBone AS,large
+2907,Science Information Network,large
+3130,RGnet OU,large
+3132,Red Cientifica Peruana,large
+3208,Algerian Academic Research Network,large
+3221,Estonian Education and Research Network,large
+3233,Institutul National de Cercetare-Dezvoltare in inform...,large
+3238,Ålands Telekommunikation Ab,large
+3245,Digital Systems Ltd,large
+3257,GTT Communications Inc.,large
+3320,Deutsche Telekom AG,large
+3551,Universidad Tecnologica de Panama,large
+3557,ISC - F-root,large
+3582,University of Oregon,large
+3586,University of the West Indies,large
+3661,The Chinese University of Hong Kong,large
+3741,Dimension Data,large
+4609,Companhia de Telecomunicacoes de Macau SARL,large
+4613,Mercantile Office Systems,large
+4621,UniNet Thailand,large
+4641,The Hong Kong Internet Exchange Limited,large
+4780,Digital United Inc.,large
+5087,Lanka Communication Services,large
+5379,Univerzitet Sv. Kiril i Metodij,large
+5408,National Infrastructures for Research and Technology S.A.,large
+5538,Institute of Mathematics and Computer Science of University of Latvia,large
+5927,United States Department of Defense (DoD),large
+6713,Maroc Telecom,large
+6968,ZA CENTRAL REGISTRY NPC,large
+7500,WIDE Project - M-root,large
+7642,DHIVEHI RAAJJEYGE GULHUN PLC,large
+8048,"CANTV Servicios, Venezuela",large
+8346,SONATEL-AS Autonomous System,large
+8365,Man-da.de GmbH,large
+8452,Telecom Egypt,large
+8473,Bahnhof AB,large
+8511,ASIAINFO TE,large
+8517,National Academic Network and Information Center,large
+8522,Foundation of Research and Technology Hellas,large
+8561,Knipp Medien und Kommunikation GmbH,large
+8670,University of Sarajevo,large
+8680,Sure (Guernsey) Limited,large
+8781,Ooredoo Q.S.C.,large
+8818,Tusass A/S,large
+8895,King Abdul Aziz City for Science and Technology,large
+8934,National Information Technology Center,large
+8978,Holy See - Vatican City State,large
+9264,Academia Sinica,large
+9311,HITRON TECHNOLOGY INC.,large
+9329,Sri Lanka Telecom Internet,large
+9335,National Telecom Public Company Limited,large
+9464,Prince of Songkla University (SritrangNET),large
+9471,ONATI,large
+9484,Mobinet LLC. AS Mobinet Internet Service Provider,large
+9735,Hong Kong Domain Name Registration Co. Ltd,large
+10094,Unified National Networks,large
+10131,Telecom Cook Islands,large
+10569,Red CENIAInternet,large
+10886,University of Maryland,large
+10906,Núcleo de Informação e Coordenação do Ponto BR - NIC.BR,large
+11081,United Telecommunication Services (UTS),large
+11284,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR,large
+11644,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR,large
+11816,SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.,large
+12008,Vercara (f.k.a Neustar),large
+12041,"Afilias, Inc.",large
+12046,Malta Internet Foundation,large
+12136,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR,large
+12303,Magyarorszagi Internet Szolgaltatok Tanacsa Tudomanyo...,large
+12486,TeleYemen,large
+12975,Palestine Telecommunications Company (PALTEL),large
+12996,Domeneshop AS,large
+13682,Telgua,large
+14650,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR,large
+14813,Columbus Telecommunications (Barbados) Limited,large
+14988,Botswana Telecommunications Corporation,large
+15083,Infolink Global Corporation,large
+15433,Telecom Italia San Marino S.p.A,large
+15606,NASK (dns.pl),large
+15739,Berytech SCAL,large
+15766,Domicilium (IOM) Limited,large
+15815,INTRA Network Systems Ltd,large
+15924,Vodafone Turkey,large
+15964,CAMTEL,large
+15975,Hadara Technologies Private Shareholding Company,large
+16004,MIX S.r.L. - Milan Internet eXchange,large
+16086,DNA Oyj,large
+16214,C.E.R.I.S.T.,large
+17470,Hutchison Telecommunications Lanka (Private) Limited,large
+17494,Bangladesh Telegraph & Telephone Board,large
+17709,Asia Pacific Telecom,large
+17726,Telecom Cambodia,large
+17828,PNG DATACO LTD,large
+18001,Dialog Axiata PLC.,large
+18024,Bhutan Telecom Ltd,large
+18149,"Japan Registry Service Co., Ltd.",large
+18200,Office des Postes et Telecommunications New-Caledonia,large
+18366,APNIC ANYCAST ASN,large
+18865,Intuix LLC,large
+19836,Verisign Anycast US 2M,large
+20144,ICANN - L-root,large
+20294,MTN Uganda,large
+20771,Caucasus Online Ltd.,large
+20943,Netnod AB,large
+21003,General Post and Telecommunication Company (GPTC),large
+21282,KazNIC Organization,large
+21342,Akamai International B.V.,large
+21351,Canal + Telecom SAS,large
+21396,NetConnex Broadband Ltd.,large
+21556,NASA Ames Research Center - E-root,large
+22150,Carrierhouse Corp.,large
+22306,eGov Jamaica Limited,large
+23596,Korea Internet Security Agency,large
+23599,Korea Internet Security Agency,large
+23600,Korea Internet Security Agency,large
+23634,WIDE Project,large
+23673,"Cogetel Online, Cambodia, ISP",large
+23774,"Japan Registry Service Co., Ltd.",large
+23888,"National Telecommunication Corporation HQ, AS23902,Vietnam Internet network information center (VNNIC) AS23905,Victoria University of Wellington AS24066,Vietnam Internet Network Information Center AS24089,Vietnam Internet Network Information Center AS24149,Internet Domain Name System Beijing Engineering Resra... AS24151,China Internet Network Infomation Center AS24252,Japan Registry Service Co., Ltd.",large
+24320,"Railcom - Commercial Center, AS24390,The University of the South Pacific AS24406,China Internet Network Infomation Center AS24409,China Internet Network Infomation Center AS24439,MARSHALL ISLANDS NTA ISP AS AS24691,TogoTelecom, Togo",large
+24713,CGI Suomi Oy,large
+24722,LLC Babilon-T,large
+24757,Ethio telecom,large
+24796,NAMEX CONSORZIO,large
+25019,Saudi Telecom Company JSC,large
+25152,RIPE NCC - K-root,large
+25354,Entidad Publica Empresarial Red.es,large
+25389,Amaliy Aloqalar Biznesi Ltd.,large
+25429,CBINET Burundi,large
+25543,"ONATEL (Office National des Telecommunications, PTT)",large
+26617,Navega.com S.A.,large
+26710,ICANN,large
+27661,Network Information Center México,large
+28498,Network Information Center México,large
+28499,Network Information Center México,large
+28500,Network Information Center México,large
+28683,SOCIETE BENINOISE DINFRASTRUCTURES NUMERIQUES,large
+29067,Hostmaster LLC,large
+29216,Netnod - I-root,large
+29256,Syrian Telecommunication Private Closed Joint Stock Company,large
+29544,Mauritanian Telecommunication Company,large
+30844,Liquid Intelligent Technologies,large
+30857,"Communications, Space & Technology Commission (Saudi ...",large
+30873,Public Telecommunication Corporation,large
+30982,CAFE Informatique et telecommunications,large
+30985,Orange Mali SA,large
+30987,Eritrea Telecommunication Service corporation (EriTel),large
+30990,Djibouti Telecom SA,large
+31065,Ministry of Communications and Information Technology,large
+31391,Israel Internet Association,large
+31492,UZSCINET,large
+31529,DENIC eG,large
+31960,Eduardo Mondlane University,large
+33724,VOLICO,large
+33788,Kanar Telecommunication (Canar Telecom Co.Ltd),large
+35052,ACONET,large
+35160,Communications and Media Commission (CMC),large
+35819,Etihad Etisalat (Mobily),large
+36864,AFRIBONE MALI SA,large
+36884,Wana Corporate,large
+36924,GVA Cote dIvoire SAS,large
+36925,Orange Maroc,large
+36938,Nigeria Internet Registration Association,large
+36939,Comores Telecom,large
+36948,Kenya Network Information Centre (KENIC),large
+36958,Cable & Wireless (Seychelles) Ltd,large
+36969,Malawi Telecommunications Limited,large
+37045,Tanzania Network Information Centre (tzNIC),large
+37100,SEACOM Limited,large
+37124,Airtel Rwanda Ltd,large
+37177,Afrinic Anycast DNS,large
+37204,Telone PVT Ltd,large
+37313,Ghana Government (Ministry of Communications),large
+37327,Network Information Center Madagascar - NIC-MG,large
+37385,Societe Nigerienne des Telecommunications (SONITEL),large
+37430,VDC Telecom,large
+37505,Lesotho Network Information Centre Proprietary,large
+37510,Posix Swaziland,large
+37517,CV Multimedia SA,large
+38064,InternetNZ (.nz tld),large
+38229,"Lanka Education & Research Network, NREN",large
+38332,.au Domain Administration Ltd,large
+38345,Internet Domain Name System Beijing Engineering Resra...,large
+38736,Vietnam Internet network information center (VNNIC),large
+38737,Vietnam Internet network information center (VNNIC),large
+39200,Institute for Research in Fundamental Sciences,large
+39279,Information Technology and Cyber Security Service,large
+39386,Saudi Telecom Company JSC,large
+39839,Punktum dk A/S,large
+39840,Netnod AB,large
+39871,Netnod AB,large
+40945,SAT TELECOMMUNICATIONS LTD,large
+41176,Sahara Al Jazeera Network Information Technology Company,large
+42298,Ooredoo Q.S.C.,large
+42310,IE Domain Registry CLG,large
+42385,Join-stock company Internet ExchangeMSK-IX,large
+42409,Autoriteti i Komunikimeve Elektronike dhe Postare - AKEP,large
+42781,Zajil International Telecom Company KSCC,large
+42909,Community DNS Limited,large
+43489,JSC RU-CENTER,large
+43515,Google Ireland Limited,large
+43519,Nominet UK,large
+43832,Join-stock company Internet ExchangeMSK-IX,large
+44358,Kauno Technologijos Universitetas,large
+45187,Rackspace IT Hosting AS IT Hosting Provider Hong Kong,large
+45237,Magicnet LLC,large
+45285,InternetNZ (.nz tld),large
+45356,Mobitel Pvt Ltd,large
+45554,Vietnam Internet network information center (VNNIC),large
+45809,ASN for .nz registry content,large
+47201,TELECOMMUNICATIONS AND DIGITAL GOVERNMENT REGULATORY ...,large
+47267,Serbian National Internet Domain Registry Foundation,large
+47527,DLX A/S,large
+48011,Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limi...,large
+48053,Foundation of Research and Technology Hellas,large
+48283,Stichting Internet Domeinregistratie Nederland,large
+48979,DAVLAT AXBOROT TIZIMLARINI YARATISH VA QO`LLAB QUVATL...,large
+49227,Ukrainian Internet Names Center LTD,large
+50611,Knipp Medien und Kommunikation GmbH,large
+51172,DOMREG,large
+51346,Opened Joint Stock Company Tojiktelecom,large
+51349,Foundation Eesti Interneti Sihtasutus,large
+51354,Internet Society Public Organisation,large
+51559,Netinternet Bilisim Teknolojileri AS,large
+51833,Association of IT Companies of Kazakhstan,large
+51955,Institute of Mathematics and Computer Science of Univ...,large
+51966,Fondation RESTENA,large
+52234,NIC Chile,large
+52250,Ag para el Desarrollo de la Sociedad de la Inf en Bol...,large
+52274,NIC.EC S.A.,large
+52304,NIC Chile,large
+52305,NIC Chile,large
+52306,NIC Chile,large
+52391,Curacao Technology Exchange N.V (CTEX),large
+53035,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR,large
+55195,CIRA Canadian Internet Registration Authority Autorit...,large
+55342,Homenet,large
+55722,Cenpac Net Inc,large
+55943,ONATI,large
+56301,National Data Center building,large
+56582,Netfactor Telekominikasyon ve Teknoloji Hizmetleri Sa...,large
+56588,Information System Authority,large
+56908,Netnod AB,large
+57382,Telecommunication Tokelau Corporation Teletok,large
+57814,Cloud 9 Ltd.,large
+58448,CONAC (China Organizational Name Administration Center),large
+58536,CONAC (China Organizational Name Administration Center),large
+60592,Gransy s.r.o.,large
+60680,Telecommunications Regulatory Authority (TRA),large
+60890,CentralNic Ltd,large
+61005,OpenTLD BV,large
+61007,OpenTLD BV,large
+61025,CoCCA Registry Services (NZ) Limited,large
+61455,LACTLD - LATIN AMERICAN AND CARIBBEAN TLD ASSOCIATION,large
+63363,Tucows.com Co.,large
+63911,"NetActuate, Inc",large
+131098,Korea Internet Security Agency,large
+131099,Korea Internet Security Agency,large
+131100,Korea Internet Security Agency,large
+131279,Ryugyong-dong (DPRK),large
+131905,"Japan Registry Services Co., Ltd.",large
+132647,Pengelola Nama Domain Internet Indonesia,large
+136557,Host Universal Pty Ltd,large
+138457,China Academy of Information and Communications Technology,large
+142437,"Thai Name Server Co., Ltd.",large
+152155,SN SKIES(PVT.) LIMITED,large
+197000,RIPE NCC - Anycast DNS,large
+197440,dot IT ccTLD anycast,large
+197564,Stiftelsen for Internetinfrastruktur,large
+197726,Ukrainian Internet Names Center LTD,large
+197997,RegisterBG Ltd,large
+198147,Telecommunication Tokelau Corporation Teletok,large
+199216,Compass-Verlag GmbH,large
+199330,CentralNic Ltd,large
+199670,DNS-Belgium VZW,large
+200070,"CZ.NIC, z.s.p.o.",large
+201303,CentralNic Ltd,large
+201304,CentralNic Ltd,large
+201612,nic.at GmbH,large
+201688,Bilgi Teknolojileri ve iletisim Kurumu,large
+202660,Uzbektelekom Joint Stock Company,large
+203391,Cloud DNS Ltd,large
+204548,Kamatera Inc,large
+204649,Sure South Atlantic Limited,large
+205273,Teleport DC LLC FE,large
+206768,Association of IT Companies of Kazakhstan,large
+207266,Identity Digital Limited,large
+208366,Stefan Pattberg trading as DENIC Services GmbH & Co. KG,large
+208951,ITGLOBAL.COM NL B.V.,large
+209617,University of Cyprus,large
+210788,Magyarorszagi Internet Szolgaltatok Tanacsa Tudomanyo...,large
+211466,Ministry of Telecommunication & Digital Economy,large
+211588,Innovation Harbor B.V.,large
+211655,NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INS...,large
+263779,NIC COSTA RICA,large
+263799,CARIBBEAN COMMUNICATION SERVICES,large
+264798,NIC ARGENTINA,large
+265731,NIC ARGENTINA,large
+267797,EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA (ENATREL),large
+267892,COMISION NACIONAL DE TELECOMUNICACIONES CONATEL (NICVE),large
+271966,"Red Avanzada de Investigación, Ciencia y Educación ...",large
+328098,JENY SAS,large
+328381,Sudanese Internet Association,large
+328919,Open Connect Limited,large
+329666,Cote dIvoire Internet Exchange Point,large
+393249,University of British Columbia,large
+393818,Tucows.com Co.,large
+394353,USC/ISI - B-root,large
+394354,Canadian Internet Registration Authority,large
+395400,UNIVERSITY OF GUAM,large
+396501,CIRA Canadian Internet Registration Authority Autorit...,large
+396549,Verisign Anycast GB 0A,large
+396566,Verisign Anycast NL 0L,large
+396654,Verisign Anycast US 2K,large
+396661,Verisign Anycast CH 0C,large
+397197,Verisign Anycast DE 0E,large
+398987,PhirePhly Design,large
+399159,"Vercara, LLC",large
+399161,"Vercara, LLC",large
+399164,"Vercara, LLC",large
