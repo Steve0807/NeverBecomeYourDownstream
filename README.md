@@ -72,3 +72,19 @@ output/
 ├── txt_name/
 ├── csv_plain/
 └── csv_name/
+
+# Data Source / 数据来源
+
+ASN metadata is primarily derived from the following sources:
+
+ASN 元数据主要来源于以下数据源：
+
+- Original source / 原始来源：
+  - bgp.tools
+
+- Mirror database / 镜像数据库：
+  - https://github.com/Alice39s/BGP.Tools-OpenDB
+
+To avoid placing unnecessary load on the bgp.tools service, this project uses the mirrored `BGP.Tools-OpenDB` dataset instead of directly querying the original website.
+
+为了避免对bgp.tools造成额外压力，本项目使用镜像数据库 BGP.Tools-OpenDB作为数据来源，而非直接请求原始网站
